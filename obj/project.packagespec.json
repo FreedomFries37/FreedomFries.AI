@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Joshua\\Documents\\ProgrammingWorkspace\\DiscordBot\\DiscordBot.csproj",
+    "projectName": "DiscordBot",
+    "projectPath": "C:\\Users\\Joshua\\Documents\\ProgrammingWorkspace\\DiscordBot\\DiscordBot.csproj",
+    "outputPath": "C:\\Users\\Joshua\\Documents\\ProgrammingWorkspace\\DiscordBot\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Discord.Net": {
+          "target": "Package",
+          "version": "[2.0.0-beta, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "RadDB3": {
+          "target": "Package",
+          "version": "[1.1.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
