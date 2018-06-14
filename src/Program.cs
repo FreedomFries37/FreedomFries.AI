@@ -16,12 +16,18 @@ namespace DiscordBot {
 
 	
 	class Program {
-		private const string TOKEN = "NDU1ODA0MDA0MzMzNjQ5OTUy.DgBbvw.WqVs0XFqoCKWeRLo8utYh57Bg5A";
+		private const string TOKEN = "";
 		
 		static void Main(string[] args) => new Program().MainAsync().GetAwaiter().GetResult();
 		private DiscordSocketClient client;
-		public static Table table;
-		private static readonly Relation Relation = new Relation(("*ID", typeof(RADuLong)), ("Name", typeof(RADString)), ("Message", typeof(RADString)));
+		public static Database db;
+		private static readonly Relation Relation = new Relation(
+			("*ID", typeof(RADuLong)),
+			("Name", typeof(RADString)),
+			("&Time", typeof(RADDateTime)),
+			("Message", typeof(RADString)));
+
+		public static Table table => db["IDNTM"];
 	
 		public async Task MainAsync() {
 			var services = ConfigureServices();
@@ -36,7 +42,15 @@ namespace DiscordBot {
 
 			await services.GetRequiredService<CommandHandlingService>().InitializeAsync();
 
-			table = new Table(Relation);
+			if (FileInteraction.ConvertDirectoriesInCurrentDirectoryToDatabases().Length == 0) {
+				db = new Database("Discord_Database", 5);
+				db.addTable(new Table("IDNTM", Relation));
+				FileInteraction.ConvertDatabaseToFile(db);
+			} else {
+				db = FileInteraction.ConvertDirectoriesInCurrentDirectoryToDatabases()[0];
+			}
+			
+			
 			
 			await Task.Delay(-1);
 		}
