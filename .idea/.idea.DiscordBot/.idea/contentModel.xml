@@ -9,6 +9,7 @@
         <e p="Discord_Database.rd3" t="Include" />
         <e p="tables" t="Include">
           <e p="IDNTM.rdt" t="Include" />
+          <e p="TokenService.rdt" t="Include" />
         </e>
       </e>
       <e p="DiscordBot.csproj" t="IncludeRecursive" />

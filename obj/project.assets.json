@@ -369,7 +369,7 @@
           "lib/netstandard1.3/Newtonsoft.Json.dll": {}
         }
       },
-      "RadDB3/1.3.2": {
+      "RadDB3/1.4.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.App": "2.0.0"
@@ -2446,14 +2446,14 @@
         "tools/install.ps1"
       ]
     },
-    "RadDB3/1.3.2": {
-      "sha512": "H8bI1fnNwgYGFKLWYT2gHR6febEhmWNvP7oQOVdaGPY9wUdb8ZTz5Erzoyiv8rComBO3UFV2O/8blgTJrTP2NA==",
+    "RadDB3/1.4.0": {
+      "sha512": "KXiX9BJGVeFD3oo7em360IElFqIMB6+lP23wxpqBqY/wH5pa/4uIN10ROjNYQ+lOSBY3PrgakplMkdYfVTE25g==",
       "type": "package",
-      "path": "raddb3/1.3.2",
+      "path": "raddb3/1.4.0",
       "files": [
         "lib/netcoreapp2.0/RadDB3.dll",
         "lib/netcoreapp2.0/RadDB3.runtimeconfig.json",
-        "raddb3.1.3.2.nupkg.sha512",
+        "raddb3.1.4.0.nupkg.sha512",
         "raddb3.nuspec"
       ]
     },
@@ -5916,7 +5916,7 @@
     ".NETCoreApp,Version=v2.0": [
       "Discord.Net >= 2.0.0-beta",
       "Microsoft.NETCore.App >= 2.0.0",
-      "RadDB3 >= 1.3.2"
+      "RadDB3 >= 1.4.0"
     ]
   },
   "packageFolders": {
@@ -5973,7 +5973,7 @@
           },
           "RadDB3": {
             "target": "Package",
-            "version": "[1.3.2, )"
+            "version": "[1.4.0, )"
           }
         },
         "imports": [

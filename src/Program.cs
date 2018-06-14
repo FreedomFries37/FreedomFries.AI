@@ -16,16 +16,20 @@ namespace DiscordBot {
 
 	
 	class Program {
-		private const string TOKEN = "";
+		private string TOKEN = "";
 		
 		static void Main(string[] args) => new Program().MainAsync().GetAwaiter().GetResult();
 		private DiscordSocketClient client;
 		public static Database db;
-		private static readonly Relation Relation = new Relation(
+		private static readonly Relation Relation1 = new Relation(
 			("*ID", typeof(RADuLong)),
 			("Name", typeof(RADString)),
 			("&Time", typeof(RADDateTime)),
 			("Message", typeof(RADString)));
+		
+		private static readonly Relation Relation2 = new Relation(
+			("*Time", typeof(RADDateTime)),
+			("Token", typeof(RADString)));
 
 		public static Table table => db["IDNTM"];
 	
@@ -37,20 +41,24 @@ namespace DiscordBot {
 			client.Log += LogAsync;
 			client.Ready += ReadyAsync;
 			services.GetRequiredService<CommandService>().Log += LogAsync;
-			await client.LoginAsync(TokenType.Bot, TOKEN);
-			await client.StartAsync();
-
+		
 			await services.GetRequiredService<CommandHandlingService>().InitializeAsync();
 
 			if (FileInteraction.ConvertDirectoriesInCurrentDirectoryToDatabases().Length == 0) {
 				db = new Database("Discord_Database", 5);
-				db.addTable(new Table("IDNTM", Relation));
+				db.addTable(new Table("IDNTM", Relation1));
+				db.addTable(new Table("TokenService", Relation2));
+				db["TokenService"]?.Add(DateTime.Now, "fill me in");
 				FileInteraction.ConvertDatabaseToFile(db);
-			} else {
-				db = FileInteraction.ConvertDirectoriesInCurrentDirectoryToDatabases()[0];
+				await Task.Delay(-1);
+				return;
 			}
 			
+			db = FileInteraction.ConvertDirectoriesInCurrentDirectoryToDatabases()[0];
 			
+			await client.LoginAsync(TokenType.Bot, TOKEN);
+			await client.StartAsync();
+
 			
 			await Task.Delay(-1);
 		}

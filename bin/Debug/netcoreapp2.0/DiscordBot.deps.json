@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "e54ebd211ca5b0081ba7f59b82cdfc674fcd1b73"
+    "signature": "d7e425f79dfd285f0e24c656be0b6642387ce965"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,7 +9,7 @@
       "DiscordBot/1.0.0": {
         "dependencies": {
           "Discord.Net": "2.0.0-beta",
-          "RadDB3": "1.3.2"
+          "RadDB3": "1.4.0"
         },
         "runtime": {
           "DiscordBot.dll": {}
@@ -126,7 +126,7 @@
           "lib/netstandard1.3/Newtonsoft.Json.dll": {}
         }
       },
-      "RadDB3/1.3.2": {
+      "RadDB3/1.4.0": {
         "runtime": {
           "lib/netcoreapp2.0/RadDB3.dll": {}
         }
@@ -1157,12 +1157,12 @@
       "path": "newtonsoft.json/10.0.2",
       "hashPath": "newtonsoft.json.10.0.2.nupkg.sha512"
     },
-    "RadDB3/1.3.2": {
+    "RadDB3/1.4.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-H8bI1fnNwgYGFKLWYT2gHR6febEhmWNvP7oQOVdaGPY9wUdb8ZTz5Erzoyiv8rComBO3UFV2O/8blgTJrTP2NA==",
-      "path": "raddb3/1.3.2",
-      "hashPath": "raddb3.1.3.2.nupkg.sha512"
+      "sha512": "sha512-KXiX9BJGVeFD3oo7em360IElFqIMB6+lP23wxpqBqY/wH5pa/4uIN10ROjNYQ+lOSBY3PrgakplMkdYfVTE25g==",
+      "path": "raddb3/1.4.0",
+      "hashPath": "raddb3.1.4.0.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",
