@@ -3,15 +3,16 @@
   <component name="ContentModelStore">
     <e p="C:\Users\Joshua\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_DiscordBot.-1428413321.00" t="ExcludeRecursive" />
     <e p="C:\Users\Joshua\Documents\ProgrammingWorkspace\DiscordBot" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
-      <e p="CommandHandlingService.cs" t="Include" />
+      <e p="Discord_Database" t="Include">
+        <e p="Discord_Database.rd3" t="Include" />
+        <e p="tables" t="Include">
+          <e p="IDNTM.rdt" t="Include" />
+        </e>
+      </e>
       <e p="DiscordBot.csproj" t="IncludeRecursive" />
       <e p="DiscordBot.sln" t="IncludeFlat" />
-      <e p="ID-Name-Message.rdt" t="Include" />
-      <e p="Modules" t="Include">
-        <e p="Learning.cs" t="Include" />
-        <e p="PublicModule.cs" t="Include" />
-      </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netcoreapp2.0" t="Include">
@@ -20,7 +21,14 @@
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
-      <e p="Program.cs" t="Include" />
+      <e p="src" t="Include">
+        <e p="CommandHandlingService.cs" t="Include" />
+        <e p="Modules" t="Include">
+          <e p="Learning.cs" t="Include" />
+          <e p="PublicModule.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
     </e>
   </component>
 </project>

@@ -5,6 +5,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Discord.Net" Version="2.0.0-beta" />
-    <PackageReference Include="RadDB3" Version="1.1.1" />
+    <PackageReference Include="RadDB3" Version="1.3.2" />
   </ItemGroup>
 </Project>

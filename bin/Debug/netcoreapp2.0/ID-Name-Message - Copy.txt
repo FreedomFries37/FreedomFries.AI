@@ -1,0 +1,626 @@
+NAME:"ID-Name-Message";
+RELATION{
+	[*]RADuLong "ID" ();
+	[-]RADString "Name" ();
+	[-]RADString "Message" ();
+}
+TUPLES{
+	[0]{ID:455846628566237215,Name:FreedomFries,Message:ewoiurhnofnasdlkfnlasdkngfa;lkdnf;alksdnfal;sdnfla;sdfkn;alsdf},{ID:317805832324644864,Name:Aephilia of the Snow,Message:Current hentai is like monster loli futa younger sisters},{ID:317529658692206602,Name:bobgooeyflonder,Message:https://images.vice.com/vice/images/articles/meta/2016/07/06/inside-the-black-market-for-codeine-in-florida-1467816119.jpg?crop=1xw:0.75xh;center,center&resize=1050:*}
+	[1]{ID:307746172628631555,Name:bobgooeyflonder,Message:?}
+	[2]{ID:418301113901645834,Name:Shvou,Message:i think you mean oreimo},{ID:278335742743150592,Name:FreedomFries,Message:its litteraly just insult fries}
+	[3]{ID:418311834009993226,Name:giri,Message:DONT LEAVE ME}
+	[4]{ID:455835855639150594,Name:Dad Bot,Message:Hi not dad, I'm Dad!},{ID:342872755609272320,Name:Aephilia of the Snow,Message:Feels bad man}
+	[5]{ID:291009671521763328,Name:FreedomFries,Message:yui}
+	[6]{ID:412104050452987905,Name:giri,Message:https://www.youtube.com/watch?v=sUAJYeNKuIE},{ID:307761219371270144,Name:minnesota212,Message:Ok I'll c if I can put it up now}
+	[7]{ID:280899020317130753,Name:Aephilia of the Snow,Message:lion's pretty good},{ID:278736354823634949,Name:Aephilia of the Snow,Message:insult fries}
+	[12]{ID:282357904353263616,Name:Aephilia of the Snow,Message:!volume 35}
+	[19]{ID:455819388918956063,Name:FreedomFries,Message:ur mum}
+	[23]{ID:418300928500826113,Name:giri,Message:tom whats your favorite anime},{ID:280433968979902464,Name:melone,Message:why arent you playing}
+	[24]{ID:455233323019796480,Name:ThatNinja,Message:https://i.redd.it/fk166t3za3311.jpg}
+	[25]{ID:335221141264138241,Name:FreedomFries,Message:do i go for it boys},{ID:304807798888202250,Name:Aephilia of the Snow,Message:<@163818149576310784>}
+	[26]{ID:455597374169939977,Name:Aephilia of the Snow,Message:im <:4Bezi:277873291165958144>},{ID:411773130126786560,Name:minnesota212,Message:I may be laggy, not my fault},{ID:301194558832771072,Name:Aephilia of the Snow,Message:Yo @here},{ID:278337490505564162,Name:Aephilia of the Snow,Message:Masochist FeelsBadMan}
+	[27]{ID:324343091706200074,Name:giri,Message:https://www.youtube.com/watch?v=mZlImrU1-bs}
+	[28]{ID:394320252734799872,Name:Aephilia of the Snow,Message:oh},{ID:327341391619555331,Name:giri,Message:https://gyazo.com/33fde9fb8480c05bd937bc35a3c8dd27}
+	[30]{ID:372248489360359434,Name:Aephilia of the Snow,Message:gg}
+	[32]{ID:317490160856072193,Name:Aephilia of the Snow,Message:i just wanted to hear your voices},{ID:312421635841982465,Name:Aephilia of the Snow,Message:7 people in this chat zzz}
+	[33]{ID:307760587805294592,Name:minnesota212,Message:Still in q?},{ID:279087468014206977,Name:Aephilia of the Snow,Message:For omar}
+	[34]{ID:326527842487894016,Name:FreedomFries,Message:http://i.imgur.com/HgxwWNh.gifv},{ID:317491841706622976,Name:melone,Message:http://www.hotnewhiphop.com/swae-lee-to-release-first-solo-project-swaecation-news.23442.html}
+	[37]{ID:455558180643274752,Name:giri,Message:anime is toxic},{ID:375766475253743616,Name:FreedomFries,Message:no},{ID:291009413790302208,Name:Aephilia of the Snow,Message:Kpop.}
+	[39]{ID:455558371165077524,Name:Aephilia of the Snow,Message:<:oof:434748743871365130>}
+	[40]{ID:278335580281241601,Name:cybros,Message:nice}
+	[41]{ID:455557227668045824,Name:Omar,Message:tom POGGERS},{ID:307746203192262656,Name:bobgooeyflonder,Message:this is pretty early man}
+	[44]{ID:279449134854045706,Name:giri,Message:!skip}
+	[46]{ID:279449531144470539,Name:Aephilia of the Snow,Message:Lag}
+	[50]{ID:418300962084618241,Name:Aephilia of the Snow,Message:Oregairu S2}
+	[52]{ID:278335871432916992,Name:cybros,Message:ty}
+	[56]{ID:339600959338708997,Name:ThatNinja,Message:http://imgur.com/gallery/CXloJ93},{ID:317469346089926676,Name:Aephilia of the Snow,Message:as the pa player here, i can confirm}
+	[57]{ID:451218963892797460,Name:ThatNinja,Message:delinquency},{ID:411784226887827457,Name:minnesota212,Message:Just got 8th place in a solo game tip}
+	[58]{ID:338541823859621890,Name:FreedomFries,Message:wthat the FUXK}
+	[59]{ID:343274001919115264,Name:ThatNinja,Message:http://imgur.com/gallery/wNTyIzS}
+	[60]{ID:376477592397807616,Name:FreedomFries,Message:give them bac},{ID:280464873769533441,Name:Aephilia of the Snow,Message:FUCK YOU UR}
+	[61]{ID:342873024472678400,Name:Aephilia of the Snow,Message:It's ok}
+	[62]{ID:312420139364777984,Name:Aephilia of the Snow,Message:Who keeps inviting people to my discord zzz},{ID:278335072535314433,Name:FreedomFries,Message:<:4Bezi:277873291165958144> cruel angel's thesis <:4Bezi:277873291165958144>}
+	[64]{ID:428329502272258049,Name:jaeger,Message:},{ID:280426315478335489,Name:Aephilia of the Snow,Message:<@163818149576310784>}
+	[65]{ID:300844637361274880,Name:Toaster443,Message:tom come play}
+	[66]{ID:455557278452547604,Name:Dad Bot,Message:Hi back, I'm Dad!}
+	[68]{ID:302621619958972437,Name:Aephilia of the Snow,Message:Ignored FeelsBadMan},{ID:297197966844755968,Name:minnesota212,Message:i am},{ID:280425476550295574,Name:Aephilia of the Snow,Message:yes}
+	[69]{ID:315264618291396610,Name:giri,Message:finally free from omars grip},{ID:312424092013690882,Name:Aephilia of the Snow,Message:That's me}
+	[70]{ID:411778570889723905,Name:minnesota212,Message:Goooooo do ittt},{ID:336667799709679619,Name:FreedomFries,Message:https://www.youtube.com/watch?v=ieQ1rAIjzXc}
+	[71]{ID:300111539598393345,Name:Toaster443,Message:whoops}
+	[82]{ID:278335755145838593,Name:FreedomFries,Message:and that}
+	[84]{ID:317806154585604097,Name:Shvou,Message:gotta love}
+	[85]{ID:411784276032618497,Name:minnesota212,Message:Rip*},{ID:291011388619489280,Name:Aephilia of the Snow,Message:Daily reminder that you're a weeb}
+	[88]{ID:317807536252125194,Name:Aephilia of the Snow,Message:it was working earlier}
+	[89]{ID:342872949201829888,Name:Aephilia of the Snow,Message:Hi}
+	[90]{ID:283463610401816579,Name:ThatNinja,Message:https://www.youtube.com/watch?v=XuBweHIEdNU}
+	[91]{ID:446416579689840670,Name:Aephilia of the Snow,Message:who are these people},{ID:279087459638444032,Name:Aephilia of the Snow,Message:I just changed the name for this server},{ID:278337462428893184,Name:cybros,Message:insult me}
+	[93]{ID:327317943119511552,Name:Toaster443,Message:what are weee doing tmw}
+	[94]{ID:418311776111951872,Name:Aephilia of the Snow,Message:same},{ID:299383849807511553,Name:bobgooeyflonder,Message:https://www.google.com/flights/#search;f=JFK,EWR,LGA;t=SEA;d=2017-08-07;r=2017-08-13;sel=JFKSEA0DL2163,SEAJFK0DL415;s=0;q=flights+from+new+york+to+seattle}
+	[96]{ID:305187568360882178,Name:bobgooeyflonder,Message:the boy^},{ID:279449237035679745,Name:Kaori Miyazono,Message:Enqueued **[MV] SEVENTEEN(세븐틴) _ HIGHLIGHT** to be played. Position in queue: Up next!}
+	[98]{ID:424440463836315658,Name:arvindsindhwani,Message:ya}
+	[99]{ID:304806541775732746,Name:Aephilia of the Snow,Message:WORDS LIKE TOMORROW OR FUTURE OR FATE}
+	[100]{ID:423685745606262794,Name:FreedomFries,Message:its time by pink phloyd you unvulterred swine'},{ID:418313790430380043,Name:Aephilia of the Snow,Message:i'm depressed with no way out},{ID:307761467048853505,Name:giri,Message:you already are},{ID:284220857621020673,Name:ThatNinja,Message:OG HENTAI},{ID:278335721897721857,Name:Thearesia Van Astrea,Message:<:4Bezi:277873291165958144> Gimme slardar guys <:4Bezi:277873291165958144>}
+	[101]{ID:317807664405020674,Name:Bezi,Message:move to different discord},{ID:295030379910397952,Name:Aephilia of the Snow,Message:me_Irl},{ID:278335290127679508,Name:FreedomFries,Message:stfu}
+	[103]{ID:426405161385197578,Name:Aephilia of the Snow,Message:<@163434671814737922>},{ID:312420083060178944,Name:Aephilia of the Snow,Message:O},{ID:296457107224395776,Name:Aephilia of the Snow,Message:?}
+	[104]{ID:317806632736391179,Name:Aephilia of the Snow,Message:why}
+	[105]{ID:312427673710362624,Name:Aephilia of the Snow,Message:¯\_(ツ)_/¯}
+	[109]{ID:418314871109582848,Name:giri,Message:❤}
+	[112]{ID:290301662310957061,Name:giri,Message:GIRUGAMESH}
+	[116]{ID:278335281994924032,Name:FreedomFries,Message:stfy}
+	[117]{ID:291009389416939521,Name:FreedomFries,Message:where is irene fro}
+	[119]{ID:280433845654913024,Name:melone,Message:knig can i come over}
+	[121]{ID:455867620873338892,Name:FreedomFries,Message:!ur mum}
+	[122]{ID:317805668461445131,Name:FreedomFries,Message:Code Geass},{ID:302417363737903105,Name:Aephilia of the Snow,Message:NAZI MODS reeee}
+	[123]{ID:282697628301524992,Name:FreedomFries,Message:http://i.imgur.com/xnIbSsg.gifv}
+	[124]{ID:455819547283423232,Name:giri,Message:ur mom},{ID:324342480772530196,Name:bobgooeyflonder,Message:https://www.youtube.com/watch?v=ISHPumshGgA},{ID:304806363945500672,Name:Aephilia of the Snow,Message:or jap}
+	[125]{ID:343237570265874442,Name:FreedomFries,Message:asd}
+	[126]{ID:299375133913513984,Name:Bezi,Message:https://www.bestwestern.com/en_US/book/hotels-in-seattle/best-western-executive-inn/propertyCode.48068.html}
+	[127]{ID:376526430026203136,Name:FreedomFries,Message:yay}
+	[128]{ID:418311792700424204,Name:Aephilia of the Snow,Message:ok},{ID:278336008066433037,Name:cybros,Message:oh}
+	[129]{ID:283829491493502976,Name:ThatNinja,Message:LMAO}
+	[130]{ID:390711273823797249,Name:Aephilia of the Snow,Message:what}
+	[131]{ID:324343108944789506,Name:bobgooeyflonder,Message:https://www.youtube.com/watch?v=BhzX4mZWYS4}
+	[132]{ID:307761418399383563,Name:minnesota212,Message:But there's a risk I could become one},{ID:278381605083414528,Name:FreedomFries,Message:https://www.youtube.com/watch?v=lBICLteuQs8},{ID:278336705239580672,Name:cybros,Message:feels bad}
+	[133]{ID:279838561602371585,Name:giri,Message:I DID NOTHING WRONG}
+	[134]{ID:283477056774340610,Name:ThatNinja,Message:ＮＯ　ＢＴＳ　－－－＞　ＮＯ　ＳＥＸ}
+	[136]{ID:443344666696351744,Name:Shvou,Message:Hax},{ID:297233695633571843,Name:bobgooeyflonder,Message:is my mic dead},{ID:283829465623166977,Name:giri,Message:fk}
+	[137]{ID:317806615443144714,Name:FreedomFries,Message:tom go cm}
+	[138]{ID:307746393211273217,Name:minnesota212,Message:oh few i was worried i was being distracting},{ID:300844682999496704,Name:Toaster443,Message:rip}
+	[140]{ID:278336270042791946,Name:Thearesia Van Astrea,Message:}
+	[141]{ID:297816771295969290,Name:melone,Message:https://twitter.com/SHSAssassin17}
+	[142]{ID:317806042140508160,Name:Aephilia of the Snow,Message:That doesn't turn you on}
+	[143]{ID:317806706329518083,Name:FreedomFries,Message:pick cm}
+	[148]{ID:324343271033929730,Name:bobgooeyflonder,Message:https://www.youtube.com/watch?v=eAprW14F-8k},{ID:290605235833929730,Name:Aephilia of the Snow,Message:my voice isn't working}
+	[150]{ID:374632123790917632,Name:Aephilia of the Snow,Message:two plus two is four minus one dats free quick maths}
+	[151]{ID:375829529895239681,Name:Aephilia of the Snow,Message:just sauce},{ID:317805698899509258,Name:Aephilia of the Snow,Message:Fucking old fart},{ID:302621583187509258,Name:Aephilia of the Snow,Message:HeyGuys}
+	[153]{ID:312419761634017285,Name:Aephilia of the Snow,Message:Who the hell are these people in my server}
+	[154]{ID:278336435721994240,Name:cybros,Message:i approve}
+	[155]{ID:418314539222827008,Name:Aephilia of the Snow,Message:who knows},{ID:325068520075427840,Name:Aephilia of the Snow,Message:Kreygasm}
+	[156]{ID:455140806492422154,Name:melone,Message:wow},{ID:449765830129876993,Name:Moo,Message:Benis}
+	[157]{ID:418301242817642496,Name:giri,Message:i think you guys are mispelling anohana},{ID:324303927967219722,Name:Toaster443,Message:rip},{ID:317822802654789632,Name:Aephilia of the Snow,Message:<@163818149576310784>},{ID:278335253544960000,Name:FreedomFries,Message:is everyone ready}
+	[159]{ID:432627758129217546,Name:Moo,Message:someone play a game w. me b4 ikill myself},{ID:342873200696229888,Name:Aephilia of the Snow,Message:Can anyone play dota with me}
+	[161]{ID:341790381324763137,Name:Aephilia of the Snow,Message:Hello boys},{ID:291009720532205569,Name:Aephilia of the Snow,Message:Or something...}
+	[162]{ID:307746549843361792,Name:minnesota212,Message:can i join the voice channel or r u tryna focus},{ID:291009397080064011,Name:FreedomFries,Message:*from}
+	[163]{ID:278335739417067521,Name:Thearesia Van Astrea,Message:I searched up Tsundere guys!}
+	[164]{ID:313884173310099466,Name:melone,Message:https://www.dotabuff.com/matches/3177092826}
+	[165]{ID:279449612539133952,Name:giri,Message:nicenicencie},{ID:278339683648274433,Name:Aephilia of the Snow,Message:<@163435910422200321> get aghs}
+	[170]{ID:401272674200059905,Name:LeNerdSkinner,Message:http://steamcommunity.com/id/athena359},{ID:300850278872252416,Name:Toaster443,Message:rip}
+	[172]{ID:299383557217058818,Name:ThatNinja,Message:http://www.technologytell.com/entertainment/files/2014/05/toby-turtle.jpg}
+	[182]{ID:280898787889905664,Name:Aephilia of the Snow,Message:slark kappa}
+	[183]{ID:307761624670928897,Name:minnesota212,Message:Lol}
+	[184]{ID:426565195049992192,Name:Aephilia of the Snow,Message:i'm on break right now},{ID:424084237575127042,Name:Shvou,Message:FeelsBadMan},{ID:292829691323219970,Name:Aephilia of the Snow,Message:some nice bubble tea}
+	[185]{ID:454801080149213195,Name:Dad Bot,Message:Hi back, I'm Dad!},{ID:425851639233118210,Name:giri,Message:gna go eat},{ID:299382119296139264,Name:minnesota212,Message:https://www.kayak.com/flights/JFK-SEA/2017-08-06/2017-08-13/4adults/children-17-17}
+	[186]{ID:418302706361565185,Name:Aephilia of the Snow,Message:over christmas break}
+	[188]{ID:373305949416325123,Name:ThatNinja,Message:GIVE CONKLE NUDES}
+	[190]{ID:455818656790741002,Name:FreedomFries,Message:a},{ID:336009618646106115,Name:ThatNinja,Message:oh hi},{ID:312404469369536512,Name:FreedomFries,Message:u can't say stff like thzt},{ID:290605173641052160,Name:Aephilia of the Snow,Message:updating},{ID:282359714740699136,Name:Kaori Miyazono,Message:Now Playing: **K.A.R.D - Oh NaNa M/V** added by **Noctia of the Hyacinths** `[03:12/03:33]`}
+	[191]{ID:455578668899762178,Name:Aephilia of the Snow,Message:true},{ID:388928499567558656,Name:jaeger,Message:2},{ID:302621682462621697,Name:Aephilia of the Snow,Message:FeelsBadMan},{ID:302618987685085194,Name:Toaster443,Message:yes}
+	[192]{ID:360982376039317504,Name:FreedomFries,Message:2d of course},{ID:301194599311998976,Name:Aephilia of the Snow,Message:?}
+	[193]{ID:424083925191622667,Name:giri,Message:FeelsBadMan},{ID:283052164308533248,Name:FreedomFries,Message:si}
+	[194]{ID:455868631322984458,Name:FreedomFries,Message:!addFromHere},{ID:307748858773897217,Name:bobgooeyflonder,Message:we're being dodged}
+	[195]{ID:279449510420283396,Name:giri,Message:also why does this bot keep cutting off},{ID:278335808644186112,Name:Aephilia of the Snow,Message:im sure it is}
+	[197]{ID:418301467829731329,Name:Aephilia of the Snow,Message:oh ok}
+	[198]{ID:455558350244020224,Name:Aephilia of the Snow,Message:true but i still watch it},{ID:425869231591260167,Name:Shady,Message:Ok},{ID:307760956048670720,Name:minnesota212,Message:Same as this discord},{ID:306610406170820628,Name:Aephilia of the Snow,Message:The server pic}
+	[199]{ID:292859788365266944,Name:melone,Message:https://www.youtube.com/watch?v=Y4nHLHDtyVA&feature=youtu.be}
+	[200]{ID:317806122688053259,Name:FreedomFries,Message:wtf}
+	[201]{ID:291009681911054349,Name:Aephilia of the Snow,Message:^}
+	[202]{ID:418314444242681856,Name:giri,Message:tom},{ID:302621630767693835,Name:FreedomFries,Message:stfu}
+	[205]{ID:300844417877671937,Name:Toaster443,Message:not as bad a s yri scnider}
+	[216]{ID:418302789421105152,Name:giri,Message:like next weekend}
+	[218]{ID:454685695718457385,Name:FreedomFries,Message:d!help}
+	[219]{ID:307761097891512320,Name:bobgooeyflonder,Message:ok I added you},{ID:279084642986885121,Name:FreedomFries,Message:}
+	[220]{ID:283476685632962562,Name:Aephilia of the Snow,Message:!}
+	[221]{ID:283464705907884034,Name:Aephilia of the Snow,Message:its me}
+	[222]{ID:317805870945665025,Name:Shvou,Message:more plot, better plot}
+	[223]{ID:324572141783744523,Name:FreedomFries,Message:one of these are not like the others}
+	[224]{ID:454685836156469249,Name:Dad Bot,Message:Im responses are working here again},{ID:375766483541950466,Name:FreedomFries,Message:ketchup}
+	[225]{ID:455395178451304448,Name:FreedomFries,Message:thats tsundere as fuck},{ID:426196467871514625,Name:giri,Message:im being a nice rm since hes studying 😃},{ID:313476246719954944,Name:giri,Message:come back}
+	[227]{ID:297198080749600779,Name:Aephilia of the Snow,Message:Oh},{ID:279450296919523339,Name:Aephilia of the Snow,Message:Sure},{ID:279449458713034752,Name:giri,Message:how long till they disband},{ID:278335272180252673,Name:Aephilia of the Snow,Message:im ready}
+	[228]{ID:299044660217643009,Name:ThatNinja,Message:https://www.youtube.com/watch?v=DVkkYlQNmbc}
+	[229]{ID:284190253743472653,Name:Toaster443,Message:tom make me a channel},{ID:278336458614374401,Name:cybros,Message:?}
+	[230]{ID:418311921306042378,Name:giri,Message:N O B U L L I}
+	[231]{ID:307760703392186369,Name:minnesota212,Message:In that case I'll stop being a distraction now}
+	[232]{ID:299043373296254977,Name:Anand,Message:http://www.ticketmaster.com/the-international-dota-2-championship-finals-seattle-washington/event/0F00527BEAA1AB66?artistid=1982004&majorcatid=10005&minorcatid=0&bba=1#efeat4211},{ID:283065685909700609,Name:ThatNinja,Message:http://i.imgur.com/CQWNOsE.jpg}
+	[233]{ID:291009478013222913,Name:FreedomFries,Message:oh}
+	[235]{ID:317806181198462979,Name:FreedomFries,Message:well theres my Kiss X Sis joke}
+	[236]{ID:313887560244002817,Name:melone,Message:https://www.facebook.com/ryan.mahatme?ref=br_rs}
+	[238]{ID:278339720994619392,Name:Aephilia of the Snow,Message:silver edge}
+	[239]{ID:455558092415959040,Name:Aephilia of the Snow,Message:i don't regret it}
+	[240]{ID:426564687509848084,Name:giri,Message:pepehands},{ID:343238014476091404,Name:Aephilia of the Snow,Message:das?}
+	[244]{ID:455818657134805012,Name:FreedomFries.AI,Message:Unknown command.}
+	[247]{ID:418302619983806467,Name:giri,Message:ah shit}
+	[248]{ID:455558111214829579,Name:Aephilia of the Snow,Message:dota is toxic},{ID:317466799983558671,Name:Aephilia of the Snow,Message:bezi},{ID:291009278339317760,Name:Aephilia of the Snow,Message:is rene?},{ID:283471936183468042,Name:Omar,Message:Xd}
+	[249]{ID:455847647878840360,Name:FreedomFries,Message:What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little "clever" comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo.},{ID:418311781765742592,Name:giri,Message:Kappa},{ID:375829537444986891,Name:Aephilia of the Snow,Message:raw sauce*}
+	[250]{ID:290319976198307840,Name:Aephilia of the Snow,Message:Si},{ID:282587881036316673,Name:FreedomFries,Message:https://i.redd.it/pe4xhjb17ngy.jpg}
+	[251]{ID:342872645815107586,Name:giri,Message:is tom our friend},{ID:283829528583864320,Name:giri,Message:rip my streaming experience}
+	[253]{ID:375766493432119325,Name:FreedomFries,Message:raw SAUCE}
+	[254]{ID:312419842806513665,Name:FreedomFries,Message:u dropped off the face of the earth},{ID:278335738884653057,Name:Aephilia of the Snow,Message:quote josh}
+	[255]{ID:418313798672449536,Name:Aephilia of the Snow,Message:what do I do},{ID:351123546828701700,Name:melone,Message:huh},{ID:278736358288392193,Name:Thearesia Van Astrea,Message:<@163492085540978689> , your waifu is shit!}
+	[256]{ID:317806204351152130,Name:Shvou,Message:XD}
+	[257]{ID:418313822562942976,Name:giri,Message:why tom},{ID:290318834626199563,Name:Aephilia of the Snow,Message:Are you winning}
+	[260]{ID:455847285948022785,Name:FreedomFries,Message:What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little "clever" comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo.}
+	[261]{ID:291009549161463831,Name:FreedomFries,Message:its all about iroha}
+	[262]{ID:279087065243844608,Name:Aephilia of the Snow,Message:PogChamp Fire Emblem},{ID:278336305564352512,Name:Aephilia of the Snow,Message:?}
+	[264]{ID:278335785504210944,Name:Aephilia of the Snow,Message:etc},{ID:278335721549594635,Name:Aephilia of the Snow,Message:quote bezi}
+	[265]{ID:435956204364365825,Name:Moo,Message:They have everything for you men to enjoy
+You can hang out with all the boys},{ID:360542084593090561,Name:ThatNinja,Message:2d or 3d?}
+	[266]{ID:426564870771572736,Name:giri,Message:and nudes},{ID:279086951837990912,Name:Aephilia of the Snow,Message:Lmao!}
+	[268]{ID:318596189044080642,Name:FreedomFries,Message:http://imgur.com/cMfkFGP},{ID:312427659873353728,Name:Shvou,Message:😉}
+	[269]{ID:307761980645572618,Name:minnesota212,Message:Steam is garbage on my computer so idk if this will work},{ID:283464873151561728,Name:Aephilia of the Snow,Message::c}
+	[270]{ID:278336390436093954,Name:FreedomFries,Message:}
+	[277]{ID:389108417278509058,Name:jaeger,Message:I'm avoiding my responsibilities},{ID:317806080069468171,Name:Aephilia of the Snow,Message:How about Monster loli futa TSUNDERE girls}
+	[279]{ID:411774383112323094,Name:minnesota212,Message:I need lowest settings}
+	[281]{ID:326903375436316683,Name:ThatNinja,Message:http://cps-static.rovicorp.com/3/JPG_500/MI0002/772/MI0002772874.jpg?partner=allrovi.com},{ID:278336197569413120,Name:Aephilia of the Snow,Message:$$$}
+	[282]{ID:312419895524458496,Name:Aephilia of the Snow,Message:We don't even have school},{ID:279450068770226176,Name:Aephilia of the Snow,Message:!queue}
+	[283]{ID:302292920201904129,Name:giri,Message:?},{ID:300849351012515851,Name:Toaster443,Message:but i cant talk},{ID:291009704350449664,Name:Aephilia of the Snow,Message:Yuigahama Yui}
+	[284]{ID:278336261104861186,Name:Aephilia of the Snow,Message:Money}
+	[285]{ID:434892642803908608,Name:Shvou,Message:can i kill myself yet, everyone is taking my farm and being dumbasses by not buying dust for bounty},{ID:418302568603844610,Name:giri,Message:tom},{ID:279450259623641088,Name:Kaori Miyazono,Message:Now Playing: **Masamune-kun no Revenge OP / Opening [HD]** added by **Noctia of the Hyacinths** `[00:05/01:30]`}
+	[286]{ID:455849863687700500,Name:FreedomFries,Message:kk}
+	[287]{ID:454685847170580480,Name:Dad Bot,Message:Hi hungry, I'm Dad!}
+	[288]{ID:422239908799840257,Name:giri,Message:PepeHands},{ID:411778823365853204,Name:minnesota212,Message:Ooo can I play sota}
+	[289]{ID:307761283707568129,Name:minnesota212,Message:I don't have steam on},{ID:291009559324131330,Name:Aephilia of the Snow,Message:...}
+	[290]{ID:297233610551984128,Name:bobgooeyflonder,Message:h}
+	[292]{ID:426565122878865429,Name:giri,Message:why no anime pics?},{ID:416826683744845827,Name:melone,Message:https://docs.google.com/presentation/d/1CwYaeDTzpvl7CoEB5SQARorQWRVB4e1RGnwMo_sfkPU/edit?usp=sharing}
+	[294]{ID:455819407772352523,Name:FreedomFries,Message:!ur mum}
+	[296]{ID:301194576130080770,Name:Aephilia of the Snow,Message:10 mins}
+	[297]{ID:455596718512144406,Name:giri,Message:what has dad done}
+	[298]{ID:454685672469692416,Name:FreedomFries,Message:man I'm hungry},{ID:418301583361572868,Name:Aephilia of the Snow,Message:my friend said she cried every episode},{ID:411772797812080651,Name:minnesota212,Message:Updating but I have Ethernet}
+	[308]{ID:307760644894228480,Name:bobgooeyflonder,Message:just found a game}
+	[309]{ID:308126071901913088,Name:bobgooeyflonder,Message:2004 box cars with steering wheel cover SeemsGood}
+	[310]{ID:279449095704412160,Name:giri,Message:why are you playing ee music}
+	[313]{ID:312420180116635650,Name:Aephilia of the Snow,Message:<:tomasStare:277887766669426688>}
+	[314]{ID:411778777475973120,Name:minnesota212,Message:Againnnn we can win one},{ID:394311930174504971,Name:giri,Message:thing},{ID:301213527371415552,Name:Aephilia of the Snow,Message:http://oi65.tinypic.com/2ry2849.jpg}
+	[315]{ID:418315210575577088,Name:Aephilia of the Snow,Message:if i can't see a future},{ID:418300988374646784,Name:Aephilia of the Snow,Message:As you can see from my pic},{ID:291009604320624641,Name:FreedomFries,Message:tom Im fucking with you},{ID:280895981246087170,Name:giri,Message:Im HEre}
+	[316]{ID:418301430579986432,Name:Aephilia of the Snow,Message:are you being serious or},{ID:317806296848007179,Name:Aephilia of the Snow,Message:Where's Jon}
+	[317]{ID:455849744107831311,Name:FreedomFries,Message:i said stay woke bitch},{ID:325487717544755202,Name:giri,Message:mitsuha.xcf},{ID:299756063035621376,Name:ThatNinja,Message:https://www.airbnb.com/rooms/5364414?checkin=2017-08-07&checkout=2017-08-13&guests=6&adults=6&children=0&infants=0&s=i4XNjAsi}
+	[318]{ID:297198102803382292,Name:Aephilia of the Snow,Message:my boy}
+	[319]{ID:426895317447999503,Name:Aephilia of the Snow,Message:Same},{ID:279450259002753026,Name:Aephilia of the Snow,Message:!queue}
+	[320]{ID:291035472270983169,Name:FreedomFries,Message:i know you are but what am i}
+	[321]{ID:278336076865601536,Name:FreedomFries,Message:bezi isn't ehre}
+	[322]{ID:418315372891209739,Name:giri,Message:regardless of whether thats the real future},{ID:337398630665289731,Name:giri,Message:what the fuck},{ID:299379712566755328,Name:ThatNinja,Message:http://i.imgur.com/gmL88aL.gifv},{ID:283829580329123840,Name:ThatNinja,Message:what are you streaming},{ID:278336042807984139,Name:cybros,Message:thats like all my fotos}
+	[323]{ID:307760657317625859,Name:bobgooeyflonder,Message:took 54 mins}
+	[325]{ID:291009361277353985,Name:Aephilia of the Snow,Message:Your waifu.}
+	[326]{ID:425851651576823818,Name:giri,Message:brb}
+	[327]{ID:346242819272474624,Name:Aephilia of the Snow,Message:FeelsLiquidMan},{ID:304812949749497856,Name:Aephilia of the Snow,Message:good night guys}
+	[328]{ID:290210798176043018,Name:cybros,Message:?},{ID:278335569619320834,Name:cybros,Message:insult fries}
+	[329]{ID:278339592980135947,Name:Aephilia of the Snow,Message:!disconnect}
+	[332]{ID:418301724063694849,Name:Shvou,Message:i assure you that you wont cry every episode}
+	[333]{ID:317491100707192832,Name:Aephilia of the Snow,Message::c}
+	[336]{ID:455819442312708120,Name:FreedomFries,Message:we live in the future gents}
+	[338]{ID:455867760354918420,Name:FreedomFries,Message:!addFromHere}
+	[340]{ID:418301641696215060,Name:Shvou,Message:you should watch bible black},{ID:278335915334828035,Name:FreedomFries,Message:<:babyRyan:278329979131920385>}
+	[341]{ID:278335594071982080,Name:Thearesia Van Astrea,Message:Boiiiiiiiii <:tomasStare:277887766669426688>}
+	[343]{ID:281988153550569472,Name:Aephilia of the Snow,Message:it's me}
+	[344]{ID:282358902559866891,Name:Kaori Miyazono,Message:Enqueued **K.A.R.D - Oh NaNa M/V** to be played. Position in queue: Up next!}
+	[345]{ID:279449180638806018,Name:Aephilia of the Snow,Message:TRIGGERED}
+	[346]{ID:291009346853404673,Name:FreedomFries,Message:?}
+	[347]{ID:301559736548065280,Name:FreedomFries,Message:https://i.redd.it/rr1iprbnrzqy.png},{ID:282340204772065280,Name:Aephilia of the Snow,Message:why is everyone so fucking racist}
+	[348]{ID:455232076963119115,Name:FreedomFries,Message:thislevel of gatekeeping is unreal},{ID:446880769420558345,Name:Aephilia of the Snow,Message:?},{ID:434465350466273280,Name:Shvou,Message:ill be on in like an hour or so}
+	[350]{ID:418302599557546005,Name:Aephilia of the Snow,Message:in two weeks},{ID:300849418540941312,Name:ThatNinja,Message:reallly?}
+	[351]{ID:418311887432974346,Name:giri,Message:DONT DO IT}
+	[352]{ID:317806020380459008,Name:Aephilia of the Snow,Message:Don't tell me},{ID:294322304345964546,Name:FreedomFries,Message:https://i.redd.it/mqhn6ldzx0ny.jpg}
+	[353]{ID:307760742206275584,Name:minnesota212,Message:Gl}
+	[354]{ID:336637927004045322,Name:ThatNinja,Message:HELLO MELON's HOUSE!! SLURP}
+	[355]{ID:418302474458365973,Name:giri,Message:just watch it},{ID:400894967737745418,Name:melone,Message:https://www.youtube.com/watch?v=zhGnuWwpNxI},{ID:341761932765822979,Name:FreedomFries,Message:look at that head tilt backwards},{ID:283829629763059722,Name:ThatNinja,Message:but this is hentai corner}
+	[356]{ID:287769644419252234,Name:Aephilia of the Snow,Message:can everyone pay me back for their ticket}
+	[357]{ID:278338138542178304,Name:Aephilia of the Snow,Message:!pause}
+	[358]{ID:342108421702680576,Name:FreedomFries,Message:oh my GOD},{ID:317805731179134987,Name:Shvou,Message:Some old hentai?},{ID:307746214680461324,Name:minnesota212,Message:lol}
+	[359]{ID:305187492653694976,Name:melone,Message:https://www.youtube.com/watch?v=unRldLdllZ8}
+	[360]{ID:280424369958682635,Name:Aephilia of the Snow,Message:me}
+	[361]{ID:454799605486452736,Name:Dad Bot,Message:Hi gay, I'm Dad!}
+	[362]{ID:291009332013694979,Name:FreedomFries,Message:who is irene}
+	[363]{ID:282358910906662915,Name:Kaori Miyazono,Message:Now playing in A Team: **K.A.R.D - Oh NaNa M/V**}
+	[364]{ID:278335832497192963,Name:FreedomFries,Message:thats just how you speak Tom}
+	[365]{ID:282359713990180864,Name:Aephilia of the Snow,Message:!queue}
+	[373]{ID:279449603986817036,Name:Aephilia of the Snow,Message:Because you're not a koreeaboo ❤}
+	[374]{ID:307760889375752192,Name:bobgooeyflonder,Message:yeah you can}
+	[377]{ID:455538215319896064,Name:Dad Bot,Message:Hi an attack helicopter, I'm Dad!},{ID:324303897705316353,Name:Toaster443,Message:i cant hear the strategy}
+	[380]{ID:317806307417522177,Name:Aephilia of the Snow,Message:He'd agree}
+	[381]{ID:324342264551964675,Name:bobgooeyflonder,Message:https://en.wikipedia.org/wiki/Draymond_Green#/media/File:Draymond_Green_against_Washington_(cropped).jpg}
+	[382]{ID:426612795744976897,Name:giri,Message:so i fell},{ID:418311865123471370,Name:Aephilia of the Snow,Message:<:yuisad:355416315315486720>},{ID:418302802381504513,Name:Aephilia of the Snow,Message:nah},{ID:307746122833723402,Name:minnesota212,Message:HOW DO U STAY UP THIS LATE I DONT UNDERSTAND ITS SUPER HUMAN}
+	[383]{ID:413926589093511169,Name:Shvou,Message:https://cstarleague.com/dota2/standings},{ID:308069394976866304,Name:Aephilia of the Snow,Message:nobody appreciates my piano}
+	[384]{ID:292876738269020163,Name:ThatNinja,Message:PIZZA TIME}
+	[385]{ID:312420164157046784,Name:FreedomFries,Message:<:tomasStare:277887766669426688>},{ID:301559358062592010,Name:FreedomFries,Message:https://i.redd.it/kg2jp1pl4yqy.jpg}
+	[386]{ID:418301140883734538,Name:giri,Message:woah your character pro pic moves}
+	[387]{ID:418302570470047754,Name:Aephilia of the Snow,Message:gg},{ID:374631997177462784,Name:Aephilia of the Snow,Message:the ting goes skrrraaaaaa},{ID:282336283899199488,Name:Aephilia of the Snow,Message:dota 4 gb update ROFL},{ID:279450393035931648,Name:giri,Message:is this an actual command}
+	[389]{ID:351123389680713729,Name:jaeger,Message:HeyGuys Grant is a God}
+	[390]{ID:455597312207486987,Name:giri,Message:<:4Bezi:277873291165958144> MY <:4Bezi:277873291165958144> DREAM <:4Bezi:277873291165958144> IS <:4Bezi:277873291165958144> TO <:4Bezi:277873291165958144> FILL <:4Bezi:277873291165958144> THE <:4Bezi:277873291165958144> PAGE <:4Bezi:277873291165958144> WITH <:4Bezi:277873291165958144> BEZIS <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> MY <:4Bezi:277873291165958144> DREAM <:4Bezi:277873291165958144> IS <:4Bezi:277873291165958144> TO <:4Bezi:277873291165958144> FILL <:4Bezi:277873291165958144> THE <:4Bezi:277873291165958144> PAGE <:4Bezi:277873291165958144> WITH <:4Bezi:277873291165958144> BEZIS <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> MY <:4Bezi:277873291165958144> DREAM <:4Bezi:277873291165958144> IS <:4Bezi:277873291165958144> TO <:4Bezi:277873291165958144> FILL <:4Bezi:277873291165958144> THE <:4Bezi:277873291165958144> PAGE <:4Bezi:277873291165958144> WITH <:4Bezi:277873291165958144> BEZIS <:4Bezi:277873291165958144>},{ID:411778847546277899,Name:minnesota212,Message:Nah I’m bad}
+	[391]{ID:455578679561420801,Name:Aephilia of the Snow,Message:i'm pretty gay},{ID:279450070988881932,Name:Kaori Miyazono,Message:Now Playing: **[MV] SEVENTEEN(세븐틴) _ HIGHLIGHT** added by **xd** `[03:16/03:56]`}
+	[395]{ID:280431087380070400,Name:Aephilia of the Snow,Message:don't ban void if the JT guys isn't playing}
+	[397]{ID:455578700893650949,Name:Aephilia of the Snow,Message:holy shit fuck you dad}
+	[398]{ID:297198118922092546,Name:Aephilia of the Snow,Message:❤}
+	[404]{ID:279450369296302081,Name:giri,Message:!ping}
+	[405]{ID:335221126529679360,Name:FreedomFries,Message:ive been invited to smoke with the camp crew},{ID:302293087277809666,Name:FreedomFries,Message:i didnt do shit},{ID:278336080476897281,Name:FreedomFries,Message:here}
+	[408]{ID:327294815773655042,Name:Shvou,Message:yeah, im muted},{ID:312420273255219200,Name:Aephilia of the Snow,Message:WutFace}
+	[409]{ID:455231993123307531,Name:FreedomFries,Message:},{ID:418302726447955970,Name:giri,Message:will you be home weekend?},{ID:302293038783528961,Name:giri,Message:tom josh is abusing his power}
+	[410]{ID:313873216193953793,Name:melone,Message:https://www.dotabuff.com/matches/3180077035}
+	[411]{ID:418311879224459267,Name:giri,Message:NO},{ID:317492438526853122,Name:Aephilia of the Snow,Message:smh},{ID:301213413613502464,Name:Aephilia of the Snow,Message:me_irl}
+	[412]{ID:418314351934439424,Name:Aephilia of the Snow,Message:whatever this is},{ID:342124940478382081,Name:Aephilia of the Snow,Message:yeah}
+	[413]{ID:372248383202656257,Name:Bezi,Message:fare the well},{ID:342124961873526787,Name:ThatNinja,Message:oh ok},{ID:290318914175500288,Name:Aephilia of the Snow,Message:Battle Cup Winners}
+	[414]{ID:455395162215022592,Name:FreedomFries,Message:"Fine! I guess were boyfriend and girlfriend"},{ID:426405132452888578,Name:Aephilia of the Snow,Message:}
+	[415]{ID:359533818362855425,Name:Aephilia of the Snow,Message:women <:monkaS:358808088674828289>}
+	[417]{ID:291009434359037962,Name:Aephilia of the Snow,Message:No it's NOT?},{ID:278335886117175297,Name:FreedomFries,Message:send me a good photo}
+	[418]{ID:297198204124921857,Name:minnesota212,Message:😁}
+	[419]{ID:279088261429854219,Name:Omar,Message:<3},{ID:279087897368592386,Name:Aephilia of the Snow,Message:I did it  boys}
+	[420]{ID:317805898238132224,Name:FreedomFries,Message:im kicking you tom},{ID:278336631294132224,Name:Aephilia of the Snow,Message:ROFL}
+	[421]{ID:278334781157146624,Name:FreedomFries,Message:http://i1.kym-cdn.com/entries/icons/original/000/017/022/ngbbs52c3dbce540d4.jpg}
+	[423]{ID:307746248235155459,Name:minnesota212,Message:i was playing hots w jarrett},{ID:300849329323900929,Name:Toaster443,Message:yea},{ID:278336517242355714,Name:FreedomFries,Message:?}
+	[425]{ID:418301586201378827,Name:Aephilia of the Snow,Message:lmao}
+	[426]{ID:397661405979082752,Name:LeNerdSkinner,Message:NANI?!?!?!??},{ID:279449343638110208,Name:Aephilia of the Snow,Message:Seventeen zzz}
+	[428]{ID:308069397174550529,Name:Aephilia of the Snow,Message:zzz}
+	[433]{ID:376477644876939264,Name:FreedomFries,Message:yes}
+	[434]{ID:342125055007916033,Name:Aephilia of the Snow,Message:_________, ____________________}
+	[436]{ID:312421559513907202,Name:Aephilia of the Snow,Message:Three antimages LUL}
+	[439]{ID:282357904869425152,Name:Kaori Miyazono,Message:<@!163818292497088512>, updated volume from 15 to 35}
+	[440]{ID:455863930791657473,Name:FreedomFries,Message:!addFromHere},{ID:313512612748853251,Name:melone,Message:https://www.dotabuff.com/matches/2329552213}
+	[441]{ID:418314836498448386,Name:giri,Message:you gotta escape whatever this is by looking at the future you},{ID:317469312845611010,Name:Aephilia of the Snow,Message:fuck blademail},{ID:302292405921513484,Name:giri,Message:wtf}
+	[442]{ID:418315449378406400,Name:Aephilia of the Snow,Message:ok}
+	[443]{ID:418314711411458068,Name:giri,Message:you do tom}
+	[444]{ID:317805607224868864,Name:Aephilia of the Snow,Message:Any recommendations},{ID:317485603501637633,Name:Aephilia of the Snow,Message:kms},{ID:291009487689613312,Name:FreedomFries,Message:shit taste}
+	[445]{ID:297234950912999424,Name:Aephilia of the Snow,Message:h}
+	[446]{ID:278335763693830146,Name:Thearesia Van Astrea,Message:Wow, <@!163818292497088512>, you really are disgusting...}
+	[447]{ID:390711262121558018,Name:Aephilia of the Snow,Message:?},{ID:302299948484001792,Name:cybros,Message:"he didn't do nuffin"},{ID:299372488649998337,Name:bobgooeyflonder,Message:thats 1}
+	[448]{ID:411772855429365761,Name:minnesota212,Message:It’ll be 1 min}
+	[450]{ID:455557278012145664,Name:Aephilia of the Snow,Message:im back},{ID:423685643349131265,Name:giri,Message:WutFace},{ID:411778881822130176,Name:minnesota212,Message:It’s aight},{ID:388962977107148810,Name:ThatNinja,Message:oh hey jaeger, I hear you go to college near me, hows that going?},{ID:278336670066278401,Name:Bezi,Message:?}
+	[451]{ID:424084252112715806,Name:Aephilia of the Snow,Message:Ok},{ID:302292475194769409,Name:giri,Message:why am i in discord}
+	[452]{ID:317806161959321600,Name:Shvou,Message:uh}
+	[454]{ID:317806239843352578,Name:Aephilia of the Snow,Message:Double loli younger sisters}
+	[456]{ID:317805795582541824,Name:Aephilia of the Snow,Message:Every girl has huge breasts},{ID:317477388206473217,Name:Aephilia of the Snow,Message:zenzen zense pogchamp}
+	[459]{ID:312421096156561429,Name:Aephilia of the Snow,Message:4Head}
+	[463]{ID:418311790384906240,Name:Aephilia of the Snow,Message:oh}
+	[468]{ID:426213671002439680,Name:giri,Message:FifteenIce68423}
+	[469]{ID:283464665953206272,Name:ThatNinja,Message:its you tom}
+	[470]{ID:418302688044908546,Name:Aephilia of the Snow,Message:I hung out with him like},{ID:411774349536919557,Name:minnesota212,Message:Lag to dearh}
+	[471]{ID:455850022127403020,Name:FreedomFries,Message:safeway},{ID:455843374323204096,Name:FreedomFries,Message:kk},{ID:313512411988623361,Name:melone,Message:https://www.dotabuff.com/matches/2651907674}
+	[474]{ID:455867133923164180,Name:FreedomFries,Message:!addFromHere},{ID:324341876314603520,Name:bobgooeyflonder,Message:https://www.youtube.com/watch?v=vtE3_voC3qU},{ID:278335570218975232,Name:Thearesia Van Astrea,Message:<@163492085540978689> , your waifu is shit!}
+	[475]{ID:455819409592811520,Name:FreedomFries.AI,Message:YOUR MOM!},{ID:455596820890910740,Name:giri,Message:<:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144> <:4Bezi:277873291165958144>},{ID:317805934866857984,Name:Aephilia of the Snow,Message:I'M THE FUCKING SERVER OWNER},{ID:278335990257549313,Name:Aephilia of the Snow,Message:He means gay}
+	[477]{ID:455558075873755136,Name:Aephilia of the Snow,Message:i haven't played dota in like a year}
+	[478]{ID:418315421037494272,Name:giri,Message:but you have the ability to make it THE future},{ID:337400799644614656,Name:ThatNinja,Message:yes},{ID:299760898111963136,Name:ThatNinja,Message:https://www.airbnb.com/rooms/3987902?checkin=2017-08-07&checkout=2017-08-13&guests=6&adults=6&s=XOcsiICz},{ID:299760895960285184,Name:ThatNinja,Message:BOAT},{ID:291009643885494272,Name:Aephilia of the Snow,Message:She's like #0},{ID:289971427421978624,Name:FreedomFries,Message:https://gfycat.com/HastyFarInganue},{ID:279084657759354880,Name:FreedomFries,Message:spoiler alert}
+	[479]{ID:312419881846964226,Name:Aephilia of the Snow,Message:What do you mean},{ID:282340532989067264,Name:Aephilia of the Snow,Message:edge pan LUL}
+	[480]{ID:373272786400968704,Name:Aephilia of the Snow,Message:man's not hot},{ID:304806326830366740,Name:Aephilia of the Snow,Message:sure <@163818149576310784>},{ID:278335967830605825,Name:cybros,Message:what do u mean by "good"? ;p}
+	[482]{ID:287114746963034113,Name:giri,Message:https://www.youtube.com/watch?v=JTw3iOBvvOA}
+	[483]{ID:418302658206760961,Name:Aephilia of the Snow,Message:yo peter is my fam},{ID:317805941020033025,Name:Aephilia of the Snow,Message:rofl},{ID:283815206403047424,Name:Aephilia of the Snow,Message:S}
+	[485]{ID:304806563468541953,Name:Aephilia of the Snow,Message:NO MATTER HOW THEY EXTEND THEIR HANDS}
+	[486]{ID:330596899939680257,Name:melone,Message:Esterflame: That is fantastic! Yup looking forward to it as well :D
+Esterflame: Lemme know if either of you guys ever get interviewed by slacks or purge or someone else xD
+retired dota player: ofc},{ID:299379747287334923,Name:ThatNinja,Message:can you do this Yusen?}
+	[487]{ID:455847805643259904,Name:FreedomFries,Message:work pls},{ID:454685835602690059,Name:FreedomFries,Message:d!imtoggle}
+	[488]{ID:372248353330692117,Name:Shvou,Message:far thee well}
+	[491]{ID:317479134907465729,Name:Aephilia of the Snow,Message:can you shut up}
+	[494]{ID:388928580308172802,Name:Shady,Message:nooooooo}
+	[498]{ID:376525382070829056,Name:FreedomFries,Message:TOM MAKE ME ADMIN qq}
+	[500]{ID:279450317496647690,Name:Aephilia of the Snow,Message:RIP}
+	[501]{ID:289971458556559361,Name:FreedomFries,Message:NO MERCY}
+	[502]{ID:455471543162634261,Name:FreedomFries,Message:https://www.youtube.com/watch?v=WQxOdvpU_oU&t=2363s&list=FL5Wp_eNwuUnTA4vuxI2FhEA&index=97}
+	[503]{ID:372233991673348097,Name:FreedomFries,Message:its ya boi}
+	[504]{ID:424440415845089290,Name:FreedomFries,Message:yolo},{ID:418300502757998594,Name:giri,Message:},{ID:324343605894316033,Name:bobgooeyflonder,Message:http://www.cbssports.com/nba/news/draymond-green-insults-cleveland-they-dont-seem-like-the-sharpest-people-around/},{ID:317806172469985284,Name:Shvou,Message:plot?}
+	[506]{ID:312419813374820363,Name:FreedomFries,Message:where the fuck have you been}
+	[507]{ID:312420089859407875,Name:Aephilia of the Snow,Message:I muted it},{ID:300844670798528512,Name:Aephilia of the Snow,Message:still in chicago},{ID:290318784508723201,Name:Aephilia of the Snow,Message:Are you playing battle cup}
+	[508]{ID:297197035214471170,Name:minnesota212,Message:i win}
+	[509]{ID:297947339233034240,Name:melone,Message:https://gyazo.com/7c2b57c96791714218ee652d8874cb8b},{ID:278336269581549568,Name:cybros,Message:$$$}
+	[510]{ID:454799604555317249,Name:giri,Message:im gay},{ID:318200429374734336,Name:Aephilia of the Snow,Message:Wut},{ID:302618539787812865,Name:Toaster443,Message:but ima play next game},{ID:278336316595503105,Name:Aephilia of the Snow,Message:which one}
+	[512]{ID:351805044959739904,Name:ThatNinja,Message:Hi},{ID:341088329392979968,Name:giri,Message:https://stockx.com/adidas-ultra-boost-uncaged-hypebeast}
+	[513]{ID:282709155414933505,Name:FreedomFries,Message:i enjoy the fact tts if banned on the server}
+	[514]{ID:454685806729363486,Name:Dad Bot,Message:Im Responses are no longer working here},{ID:317805762053144597,Name:Aephilia of the Snow,Message:Old hentai is bad},{ID:284220791636230144,Name:ThatNinja,Message:http://www.rom.on.ca/sites/default/files/styles/gallery_carousel/public/926.18.110_1_0.png?itok=fnutKrQK}
+	[515]{ID:455867621435244544,Name:FreedomFries.AI,Message:YOUR MOM!},{ID:341761882375454721,Name:FreedomFries,Message:his coreography is top notch}
+	[516]{ID:426565220899487755,Name:giri,Message:ah kk},{ID:312420239059058689,Name:Aephilia of the Snow,Message:Wait},{ID:307761361516101644,Name:giri,Message:you arent a distraction},{ID:282698101251375104,Name:Anand,Message:hello???},{ID:278335593732243456,Name:Aephilia of the Snow,Message:bazinga}
+	[517]{ID:411791030866935808,Name:minnesota212,Message:Lul},{ID:317806194410389504,Name:Aephilia of the Snow,Message:LOL}
+	[519]{ID:454685806184103946,Name:FreedomFries,Message:d!imtoggle}
+	[520]{ID:342874000264790017,Name:Aephilia of the Snow,Message:shout out to my boy conkle},{ID:282340284677881856,Name:Aephilia of the Snow,Message:should I solo q LUL},{ID:279449560492015617,Name:cybros,Message:and why am i banned from kpop channel again}
+	[521]{ID:418300539827388419,Name:Aephilia of the Snow,Message:same}
+	[523]{ID:418303126353870848,Name:Aephilia of the Snow,Message:I don't have much to do over summer so}
+	[524]{ID:312419769368444929,Name:Aephilia of the Snow,Message:Reeeeee}
+	[526]{ID:280899066794082305,Name:Aephilia of the Snow,Message:gg}
+	[527]{ID:426565038569160714,Name:giri,Message:yo thats pretty legit}
+	[528]{ID:317805776188080129,Name:Aephilia of the Snow,Message:Old hentai is like},{ID:317805528598183947,Name:FreedomFries,Message:}
+	[532]{ID:299383470596292609,Name:ThatNinja,Message:http://www.technologytell.com/entertainment/files/2014/05/deadringersturtlemcconnell.jpg}
+	[533]{ID:418311778137538560,Name:giri,Message:i need daily dose of autism in my life}
+	[534]{ID:455558011956756482,Name:Aephilia of the Snow,Message:yeah}
+	[536]{ID:339203991521198080,Name:giri,Message:http://i.imgur.com/KKnTQwQ.jpg},{ID:278339707128119298,Name:Aephilia of the Snow,Message:oct}
+	[537]{ID:278336305723604993,Name:Thearesia Van Astrea,Message:?}
+	[538]{ID:283465014109536266,Name:Omar,Message:I bet your mom is an EXO fan Kappa}
+	[539]{ID:400895204187439104,Name:Aephilia of the Snow,Message:weeb},{ID:291009588059439104,Name:Aephilia of the Snow,Message:#2},{ID:278335302035308545,Name:Aephilia of the Snow,Message:insult fries}
+	[540]{ID:291009608875507712,Name:Aephilia of the Snow,Message:For me, I think}
+	[541]{ID:426213615205613588,Name:giri,Message:whats ur name},{ID:317485563038924800,Name:Aephilia of the Snow,Message:you guys playing dotes?},{ID:308125729428865026,Name:giri,Message:ryan hearthattack driving},{ID:292919025057529856,Name:ThatNinja,Message:https://www.youtube.com/watch?v=ISHPumshGgA},{ID:279449155234037760,Name:Aephilia of the Snow,Message:????}
+	[542]{ID:418301801540878337,Name:Aephilia of the Snow,Message:v3 made me pretty teary tbh},{ID:304806663469268992,Name:Aephilia of the Snow,Message:LMAO},{ID:297211987065176064,Name:bobgooeyflonder,Message:https://www.youtube.com/watch?v=kE_mpGZFRv0},{ID:283829601678000130,Name:giri,Message:rtz}
+	[544]{ID:342124975861399553,Name:Aephilia of the Snow,Message:not gonna lie},{ID:283815201109704704,Name:Aephilia of the Snow,Message:Y}
+	[545]{ID:315264734461034497,Name:giri,Message:fuck off},{ID:308125876359397376,Name:giri,Message:SeemsGood},{ID:307760773101518849,Name:bobgooeyflonder,Message:yo download dota and watch our game xD},{ID:301570166859366400,Name:Aephilia of the Snow,Message:<@163492085540978689> http://i.imgur.com/COJMN2a.jpg},{ID:292860244797947915,Name:melone,Message:https://www.youtube.com/watch?v=ZwHb4WTvXQ8&feature=youtu.be}
+	[547]{ID:317466897480155136,Name:Aephilia of the Snow,Message:i'm not}
+	[548]{ID:426564826140114965,Name:Aephilia of the Snow,Message:wanna see my dorm},{ID:411778865359224833,Name:minnesota212,Message:I’ll wreck mmr},{ID:297198184252440576,Name:Aephilia of the Snow,Message:Alright I'm outs good night}
+	[549]{ID:417987739938586624,Name:giri,Message:},{ID:330596041932013568,Name:melone,Message:retired dota player: great game buddy!
+retired dota player: i had a lot of fun
+Esterflame: Thanks! You too. Yup. And thanks for keeping it clean and positive :)
+Esterflame:  https://steamcommunity-a.akamaihd.net/economy/emoticon/possession 
+retired dota player: Lets play again sometime!
+Esterflame: Definitely. Would be honored to play with you guys again.},{ID:302293048715640832,Name:giri,Message:unmod him pls}
+	[551]{ID:300844683758796803,Name:Aephilia of the Snow,Message:i'll be back tomorrow}
+	[553]{ID:318042296375574528,Name:Aephilia of the Snow,Message:https://www.youtube.com/watch?v=A0NCu7Q3YME&feature=youtu.be},{ID:292880260813291520,Name:Aephilia of the Snow,Message:https://www.opendota.com/matches/3063951313/casts}
+	[554]{ID:426565143540006918,Name:Aephilia of the Snow,Message:behind me}
+	[555]{ID:455562999432871948,Name:giri,Message:its ok i read naruto},{ID:318200184997806081,Name:Aephilia of the Snow,Message:i can't talk for a while}
+	[556]{ID:301213391824093204,Name:Aephilia of the Snow,Message:http://pm1.narvii.com/6218/4c8986670836e8972872ac00034840c064657671_hq.jpg}
+	[559]{ID:308069373912809473,Name:Aephilia of the Snow,Message:gg}
+	[560]{ID:317823031256809474,Name:Aephilia of the Snow,Message:You aren't playing dota},{ID:302621557098807296,Name:Aephilia of the Snow,Message:HeyGuys}
+	[562]{ID:292925214579490816,Name:ThatNinja,Message:https://www.youtube.com/watch?v=vTIIMJ9tUc8}
+	[563]{ID:455556197202919466,Name:giri,Message:get him outta here},{ID:317810777140756490,Name:Aephilia of the Snow,Message:?}
+	[565]{ID:342124926766940170,Name:Aephilia of the Snow,Message:hi boys}
+	[566]{ID:418302547602964492,Name:Aephilia of the Snow,Message:i'm lonely i haven't seen you guys in like years},{ID:307746413750517760,Name:minnesota212,Message:phew*}
+	[567]{ID:411772597231943681,Name:minnesota212,Message:Imma be here now}
+	[569]{ID:455557727557779486,Name:giri,Message:tom has abandoned dota PepeHands}
+	[570]{ID:300844512203505664,Name:Toaster443,Message:it is death}
+	[571]{ID:359534870730637313,Name:Aephilia of the Snow,Message:https://gyazo.com/e9684eb15c01ecf487f0876dd63c3c94}
+	[572]{ID:418314718571397140,Name:giri,Message:i care about you}
+	[573]{ID:426564805521047572,Name:Aephilia of the Snow,Message:no},{ID:304806717986701324,Name:Aephilia of the Snow,Message:Easy},{ID:282336749005570050,Name:Aephilia of the Snow,Message:TILTED}
+	[574]{ID:343235011035791360,Name:FreedomFries,Message:you make me a}
+	[575]{ID:455842875024867338,Name:FreedomFries,Message:test},{ID:419383318019178496,Name:melone,Message:WE HEAR YOU},{ID:359534700961857537,Name:Aephilia of the Snow,Message:https://gyazo.com/a43fa2b2fa4d58d815e701273f047c13},{ID:325487724196790272,Name:giri,Message:Kreygasm},{ID:283829604739842049,Name:giri,Message:straem},{ID:278334816577912834,Name:cybros,Message:best girl}
+	[576]{ID:278336704736133122,Name:Aephilia of the Snow,Message:Lemme do that},{ID:278336274031443971,Name:FreedomFries,Message:petition to change aqua's picture to this far superior photo}
+	[577]{ID:455694877737353222,Name:ThatNinja,Message:https://i.redd.it/cektd9j3eb311.jpg}
+	[578]{ID:455863876739923969,Name:FreedomFries,Message:!addFromHere]},{ID:318172725929574411,Name:Aephilia of the Snow,Message:?}
+	[580]{ID:278336724671791124,Name:Thearesia Van Astrea,Message:Wow, <@!163492085540978689>, you really are disgusting...}
+	[581]{ID:301570257334566912,Name:Aephilia of the Snow,Message:ROFL},{ID:283829679960358913,Name:ThatNinja,Message:I provide the Hentai experience}
+	[582]{ID:312421086547410944,Name:Aephilia of the Snow,Message:Bezi carry}
+	[584]{ID:283465047462772736,Name:Aephilia of the Snow,Message:NoKappa}
+	[585]{ID:376477455676080144,Name:FreedomFries,Message:i just realized}
+	[587]{ID:422239985585094666,Name:giri,Message:DONT BAN ME monkaH},{ID:279449797470060544,Name:Aephilia of the Snow,Message:http://livedoor.4.blogimg.jp/poterobo/imgs/0/5/05531f8a.gif}
+	[600]{ID:388925077296644097,Name:jaeger,Message:my roommates are deasd again}
+	[601]{ID:455867445991702541,Name:FreedomFries,Message:!addFromHere}
+	[602]{ID:418314354648416256,Name:Aephilia of the Snow,Message:idk},{ID:280432974967603201,Name:Aephilia of the Snow,Message:who did they pick fifth}
+	[603]{ID:425410344739930144,Name:Shvou,Message:hmmmm that last paragraph of cultural life though},{ID:297198140665364480,Name:bobgooeyflonder,Message:EleGiggle}
+	[606]{ID:394320278676832258,Name:Aephilia of the Snow,Message:SORE WA CHIGAU YO},{ID:312421743375417349,Name:Aephilia of the Snow,Message:I sound like taco /s}
+	[607]{ID:454685697891368961,Name:Dad Bot,Message:sent to dm!},{ID:382218194473189397,Name:Aephilia of the Snow,Message:<@163434671814737922> <:ShuichiSolved:382001130600661002> no that’s wrong},{ID:318172726286352384,Name:Thearesia Van Astrea,Message:?}
+	[608]{ID:418301520065331210,Name:giri,Message:you havent watched it?},{ID:376477557605793793,Name:Aephilia of the Snow,Message:Years ago},{ID:300844672761200651,Name:Aephilia of the Snow,Message:sry},{ID:290605990699859969,Name:Aephilia of the Snow,Message:my throat isn't work}
+	[609]{ID:307761487634628618,Name:minnesota212,Message:Exactly}
+	[610]{ID:455541628778577931,Name:Moo,Message:Im sorry},{ID:304806583483760641,Name:Aephilia of the Snow,Message:FeelsGoodMan},{ID:304806338179891200,Name:Aephilia of the Snow,Message:what request},{ID:279450268079357953,Name:Aephilia of the Snow,Message:PogChamp}
+	[612]{ID:317477974549200897,Name:FreedomFries,Message:}
+	[613]{ID:283814906875346945,Name:giri,Message:BTS IS THE MOST WANNABE BLACKS EVER}
+	[614]{ID:455818644765671468,Name:FreedomFries,Message:ur mum},{ID:418301458203541514,Name:giri,Message:i am},{ID:374631974339477505,Name:Aephilia of the Snow,Message:rolf},{ID:317805847348772866,Name:Aephilia of the Snow,Message:Which is like my fetish},{ID:301194570543136769,Name:Aephilia of the Snow,Message:Can anyone play in like}
+	[615]{ID:279449112754126848,Name:Aephilia of the Snow,Message:Why are you listening to my weeb shit}
+	[616]{ID:343236123281063940,Name:Aephilia of the Snow,Message:?}
+	[618]{ID:342878634962321419,Name:Aephilia of the Snow,Message:bye guys}
+	[619]{ID:280432853660073986,Name:Aephilia of the Snow,Message:just do it}
+	[620]{ID:302618491742060556,Name:Toaster443,Message:hello i cant talk cause im in a hotel room with parents}
+	[622]{ID:342124804591190028,Name:Aephilia of the Snow,Message:oh my GOD}
+	[623]{ID:418302596235919363,Name:giri,Message:please hang out w me and peter}
+	[629]{ID:341790417265623051,Name:Aephilia of the Snow,Message:!},{ID:290605121794998272,Name:Aephilia of the Snow,Message:add me on battle net}
+	[631]{ID:360542362197426186,Name:Aephilia of the Snow,Message:2d},{ID:307760659032965120,Name:minnesota212,Message:Ooo}
+	[632]{ID:295020134177964032,Name:FreedomFries,Message:https://imgur.com/d2E0aft},{ID:280433830332989442,Name:Aephilia of the Snow,Message:FeelsBadMan I'll stop}
+	[633]{ID:376477596843638785,Name:FreedomFries,Message:c}
+	[634]{ID:454801079419404288,Name:Aephilia of the Snow,Message:im back},{ID:291009658536067072,Name:Aephilia of the Snow,Message:#10*}
+	[640]{ID:317806707424100353,Name:Shvou,Message:how about suppport sven?},{ID:278334792662122496,Name:FreedomFries,Message:best waifu}
+	[642]{ID:418301545717694465,Name:Aephilia of the Snow,Message:I don't watch sad anime},{ID:301570282525687810,Name:Aephilia of the Snow,Message:doctor getting fucked by united airlines}
+	[643]{ID:455555973353046027,Name:FreedomFries,Message:banned},{ID:455236632199692288,Name:Aephilia of the Snow,Message:ok},{ID:300844697872498688,Name:Aephilia of the Snow,Message:so i'll play then},{ID:278334755647258624,Name:cybros,Message:mayb next}
+	[645]{ID:313887522243477515,Name:melone,Message:https://www.facebook.com/photo.php?fbid=10151475429902200&set=ecnf.100001217685470&type=3&theater}
+	[646]{ID:335416108029050881,Name:Aephilia of the Snow,Message:no}
+	[656]{ID:426564971120558080,Name:Aephilia of the Snow,Message:https://cdn.discordapp.com/attachments/368993121066811392/424571895778639882/image.jpg}
+	[657]{ID:418300747353161728,Name:giri,Message:what}
+	[658]{ID:312420257580974080,Name:Aephilia of the Snow,Message:Is that}
+	[659]{ID:394311925485404171,Name:giri,Message:no thats wrong}
+	[664]{ID:307761090744549376,Name:giri,Message:find us and add},{ID:287769576341504001,Name:Aephilia of the Snow,Message:I HAVE FOUR TICKET LET'S GO}
+	[665]{ID:279449901077889024,Name:cybros,Message:<:fullTilt:278002459048411137>}
+	[666]{ID:455819588383539214,Name:giri,Message:smh},{ID:282357847063265281,Name:Aephilia of the Snow,Message:!play https://www.youtube.com/watch?v=MHqy1JsVvIE}
+	[667]{ID:279449708697747456,Name:cybros,Message:i dabble is being a koreeaboo excuse u},{ID:278336409205473281,Name:Aephilia of the Snow,Message:....}
+	[668]{ID:426613600170409988,Name:minnesota212,Message:Oh rip lol I thought I was killing theirs}
+	[669]{ID:278335856413245440,Name:cybros,Message:can we make a cybrospride}
+	[670]{ID:318042363274461184,Name:Aephilia of the Snow,Message:creds to fries}
+	[672]{ID:297198048650461186,Name:Aephilia of the Snow,Message:Who the hell is minnesota}
+	[673]{ID:318172417417674752,Name:Aephilia of the Snow,Message:Lul},{ID:317466594710257665,Name:Aephilia of the Snow,Message:anyone here wanna play dota},{ID:279450277726388224,Name:giri,Message:your bot raises my ping}
+	[674]{ID:317492406230450177,Name:Aephilia of the Snow,Message:I said I wanted to hear your voices},{ID:302292936891039745,Name:cybros,Message:so unmute me?}
+	[675]{ID:278335763568001026,Name:Aephilia of the Snow,Message:insult me}
+	[677]{ID:418311819724193792,Name:giri,Message:KAPPA DUDE}
+	[678]{ID:335215105166016517,Name:ThatNinja,Message:oh ok}
+	[679]{ID:455848039752531978,Name:FreedomFries,Message:stay woke}
+	[681]{ID:291009142506651649,Name:FreedomFries,Message:is rene}
+	[685]{ID:280431135719161856,Name:Aephilia of the Snow,Message:I don't have my mic}
+	[689]{ID:312419970611150849,Name:FreedomFries,Message:u haven't written in the facebook chat}
+	[690]{ID:317466653426319360,Name:Toaster443,Message:we r in game}
+	[692]{ID:376477528199528450,Name:FreedomFries,Message:tom took away my admin level permissions}
+	[694]{ID:304806359390748672,Name:Aephilia of the Snow,Message:english}
+	[695]{ID:341714035617824782,Name:ThatNinja,Message:https://twitter.com/addison_angelo/status/890027834932166657}
+	[696]{ID:446416532000735243,Name:Aephilia of the Snow,Message:fortnite?},{ID:279087023019524098,Name:FreedomFries,Message:https://i.reddituploads.com/5832b3719daf47178c2009cf05769a8f?fit=max&h=1536&w=1536&s=2ee3e320912c3cf369eb3e93611ddc7c}
+	[698]{ID:291009571940728832,Name:Aephilia of the Snow,Message:Iroha is like}
+	[700]{ID:312404441359712257,Name:FreedomFries,Message:ryan its 2017}
+	[702]{ID:454192072879243274,Name:Moo,Message:https://www.youtube.com/watch?v=6Kwh45jLlm4}
+	[704]{ID:279087419972780032,Name:Aephilia of the Snow,Message:Because}
+	[706]{ID:307761323872092160,Name:giri,Message:our voice chat does nothing}
+	[707]{ID:376477550781792256,Name:Aephilia of the Snow,Message:I did that},{ID:300111517221650444,Name:Toaster443,Message:<@163434363994898432>#0kys239},{ID:279449135642443776,Name:Kaori Miyazono,Message:<@163434671814737922>, your skip for **[MV] REOL - 宵々古今 / YoiYoi Kokon** was acknowledged.
+The vote to skip has been passed.}
+	[708]{ID:418302483006357504,Name:giri,Message:baka!}
+	[709]{ID:338444041861595149,Name:arvindsindhwani,Message:if anyone wants to PUBG sometime hmu},{ID:303605067431411713,Name:Aephilia of the Snow,Message:memes},{ID:278335788771442689,Name:FreedomFries,Message:thats not even a real quote}
+	[710]{ID:317806247745290241,Name:Aephilia of the Snow,Message:Acceptable}
+	[711]{ID:426565054331093012,Name:Aephilia of the Snow,Message:thanks fam},{ID:306610393764200449,Name:Aephilia of the Snow,Message:Who changed},{ID:279456440111071232,Name:Aephilia of the Snow,Message:should i play lycan}
+	[712]{ID:418311731635290122,Name:giri,Message:tom i miss you so much},{ID:317131462447071233,Name:FreedomFries,Message:},{ID:312066533360795649,Name:bobgooeyflonder,Message:good morning !}
+	[714]{ID:300849389172293633,Name:Toaster443,Message:cause ima wake rob up}
+	[722]{ID:307760831226052609,Name:minnesota212,Message:I have it downloaded}
+	[724]{ID:299372468122943491,Name:bobgooeyflonder,Message:http://www.innatqueenanne.com/}
+	[725]{ID:376525524123648010,Name:Aephilia of the Snow,Message:ok}
+	[727]{ID:455877143746969630,Name:FreedomFries,Message:!addFromHere},{ID:351123784184627200,Name:Bezi,Message:guck frant},{ID:307761649958518784,Name:giri,Message:action},{ID:296456070283526165,Name:FreedomFries,Message:im fairly sure you belong inside the dumpster},{ID:282362001353867264,Name:FreedomFries,Message:}
+	[730]{ID:455541629537878036,Name:Dad Bot,Message:Hi an What the fuck did you just fucking say about me, you little bitch? I’ll have you know I graduated top of my class in the Navy Seals, and I’ve been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills.
+
+I am trained in gorilla warfare and I’m the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words.
+
+You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You’re fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that’s just with my bare hands.
+
+Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little “clever” comment was about to bring down upon you, maybe you would have held your fucking tongue.
+
+But you couldn’t, you didn’t, and now you’re paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it.
+
+You’re fucking dead, kiddo., I'm Dad!},{ID:307760903837712387,Name:bobgooeyflonder,Message:whats ur steam}
+	[731]{ID:418303138194259980,Name:Aephilia of the Snow,Message:we can hang out and stuff},{ID:317489310133911554,Name:Aephilia of the Snow,Message:ok}
+	[732]{ID:299372499517571072,Name:bobgooeyflonder,Message:possible}
+	[734]{ID:313494937536561152,Name:melone,Message:https://www.youtube.com/watch?v=GyedETUDZB0}
+	[735]{ID:426565169372594186,Name:giri,Message:pic},{ID:376477613168001044,Name:Aephilia of the Snow,Message:bacc},{ID:305187584471203840,Name:bobgooeyflonder,Message:BibleThump}
+	[738]{ID:455518653236903938,Name:Aephilia of the Snow,Message:When was this},{ID:426565032248213523,Name:Aephilia of the Snow,Message:https://cdn.discordapp.com/attachments/368993121066811392/424571136316276736/image.jpg},{ID:301201094837796864,Name:Aephilia of the Snow,Message:https://www.youtube.com/watch?v=o845InvtxKk}
+	[740]{ID:324343157242331137,Name:bobgooeyflonder,Message:Josh^ when we push hg},{ID:299382750849400833,Name:bobgooeyflonder,Message:https://www.google.com/flights/#search;f=JFK,EWR,LGA;t=SEA;d=2017-08-06;r=2017-08-13;sel=JFKSEA0DL2163,SEAJFK0DL2590;s=0;q=flights+from+new+york+to+seattle}
+	[742]{ID:307761592563400714,Name:giri,Message:cant get worse than that},{ID:283815239986970624,Name:Aephilia of the Snow,Message:You're wanna be Korean}
+	[743]{ID:290318713943752704,Name:Aephilia of the Snow,Message:It's me},{ID:279450307065544705,Name:Aephilia of the Snow,Message:!ping}
+	[744]{ID:283829658351566849,Name:giri,Message:im out},{ID:278334896416751616,Name:cybros,Message:*corychan}
+	[745]{ID:441083880834072576,Name:giri,Message:Games frozen so i restarted and now im going to go get smth to eat real quick}
+	[746]{ID:307746279088324609,Name:bobgooeyflonder,Message:LUL}
+	[750]{ID:292860511413075969,Name:melone,Message:https://www.youtube.com/watch?v=MCv6wnOaFgo&feature=youtu.be}
+	[752]{ID:418300760670076939,Name:Aephilia of the Snow,Message:spoken}
+	[758]{ID:312419787638833152,Name:FreedomFries,Message:TOm}
+	[759]{ID:411773169926406144,Name:minnesota212,Message:😉},{ID:302292795299856385,Name:cybros,Message:why am i muted?}
+	[760]{ID:426564775971913740,Name:giri,Message:is that your dorm bruh},{ID:365329217682145280,Name:Bezi,Message:sdwdsk},{ID:307761097836855297,Name:giri,Message:we'll accept},{ID:278336724172800000,Name:FreedomFries,Message:insult me}
+	[761]{ID:300112679966605312,Name:Toaster443,Message:i dont know}
+	[762]{ID:418314254207418368,Name:Aephilia of the Snow,Message:idk},{ID:317489294786822145,Name:Aephilia of the Snow,Message:Me}
+	[763]{ID:418315282134859777,Name:giri,Message:everyone can see the future},{ID:411774325641838602,Name:minnesota212,Message:I’m tilted},{ID:291009633764507667,Name:Aephilia of the Snow,Message:Who's the other girl},{ID:283464632247648269,Name:Aephilia of the Snow,Message:ROFL}
+	[764]{ID:280433004659343361,Name:Aephilia of the Snow,Message:4k}
+	[765]{ID:312066480172826625,Name:bobgooeyflonder,Message:why does bezi always sound like he just woke up},{ID:282590530083356672,Name:FreedomFries,Message:https://www.youtube.com/watch?v=5aopMm7UGYA&feature=youtu.be}
+	[766]{ID:280433895772782593,Name:melone,Message:can i knig?}
+	[767]{ID:418314323086147586,Name:giri,Message:from where},{ID:297197895243792395,Name:bobgooeyflonder,Message:join general minnesota my boy},{ID:280426307278340097,Name:Aephilia of the Snow,Message:Done}
+	[768]{ID:455556245152202763,Name:Aephilia of the Snow,Message:i ban}
+	[769]{ID:426564829340368897,Name:Aephilia of the Snow,Message:fam},{ID:313513565145268225,Name:giri,Message:https://www.dotabuff.com/matches/3114627664},{ID:279461566716313600,Name:cybros,Message:http://i.imgur.com/azQDb1Q.gifv}
+	[770]{ID:424084214862839819,Name:Shvou,Message:wasnt invited to the party},{ID:342008109755006987,Name:Aephilia of the Snow,Message:},{ID:278334805546893312,Name:Thearesia Van Astrea,Message:https://www.youtube.com/watch?v=sPbtlFVV3X0}
+	[771]{ID:317807085469433876,Name:FreedomFries,Message:hes coming},{ID:301824798646992896,Name:FreedomFries,Message:http://imgur.com/pbINTh4},{ID:279087880167489536,Name:Aephilia of the Snow,Message:<@163435910422200321>}
+	[775]{ID:418315470492532737,Name:giri,Message:<<<<<3}
+	[781]{ID:307746356997390337,Name:bobgooeyflonder,Message:nah we're in a 20 minute queue}
+	[783]{ID:318172255987171329,Name:Aephilia of the Snow,Message:@here Who can play battle cup?}
+	[785]{ID:307761577078161409,Name:giri,Message:theres josh in voice chat}
+	[789]{ID:292860074022404096,Name:melone,Message:https://www.youtube.com/watch?v=ob8TdILuuB8&feature=youtu.be}
+	[792]{ID:278336197858820097,Name:Thearesia Van Astrea,Message:}
+	[794]{ID:280430711440408578,Name:Aephilia of the Snow,Message:Guys check the b team chat for their heroes}
+	[795]{ID:455857937181573150,Name:FreedomFries,Message:yello},{ID:418301728539279362,Name:Aephilia of the Snow,Message:I cry for games},{ID:326514927248605204,Name:nilla,Message:first class airbnb},{ID:317806725409538049,Name:FreedomFries,Message:FUkc n}
+	[796]{ID:413926643514605568,Name:Shvou,Message:ez 100% winrate},{ID:297198069500477440,Name:minnesota212,Message:its ur boy AY}
+	[797]{ID:278337462768762880,Name:Thearesia Van Astrea,Message:Wow, <@!201503934127407104>, you really are disgusting...}
+	[799]{ID:300844496449699841,Name:Toaster443,Message:dont play in that stack}
+	[800]{ID:307761309351542784,Name:bobgooeyflonder,Message:oh alright}
+	[801]{ID:317477427054116865,Name:Aephilia of the Snow,Message:yes}
+	[802]{ID:330596687779463168,Name:melone,Message:e are
+Esterflame: That is fantastic! Yup looking forward to it as well 😄},{ID:312420267995693068,Name:Aephilia of the Snow,Message:Who I think it is}
+	[803]{ID:426564721106223105,Name:Aephilia of the Snow,Message:<:PepeHands:399041215254888448>}
+	[804]{ID:336667595333697547,Name:ThatNinja,Message:https://www.youtube.com/watch?v=qvv4ZATPGIE}
+	[806]{ID:426612787712884736,Name:giri,Message:you killed my building},{ID:302292817995235329,Name:Aephilia of the Snow,Message:?}
+	[808]{ID:283815191022665728,Name:Aephilia of the Snow,Message:K}
+	[809]{ID:317529539872030732,Name:bobgooeyflonder,Message:https://blackandwhitegh.files.wordpress.com/2013/11/1368167964_codeine.jpg}
+	[821]{ID:351065599419613195,Name:ThatNinja,Message:Yes}
+	[823]{ID:342872959179816961,Name:melone,Message:yuri is the most mean}
+	[824]{ID:342125063572815873,Name:Aephilia of the Snow,Message:!}
+	[825]{ID:278334859875713024,Name:cybros,Message:is corey chan}
+	[827]{ID:342124951672979468,Name:Aephilia of the Snow,Message:pretty excited}
+	[828]{ID:312427648095748117,Name:Shvou,Message:im pretty garbage tier too}
+	[829]{ID:280433922628911105,Name:Aephilia of the Snow,Message:he's in hsl}
+	[830]{ID:300111785854238720,Name:Toaster443,Message:im tilted}
+	[831]{ID:305195094510665730,Name:FreedomFries,Message:https://www.youtube.com/watch?v=wiTVgfmRPfA},{ID:291009342709432321,Name:FreedomFries,Message:is it tom}
+	[832]{ID:307760810996924418,Name:minnesota212,Message:Can I do that is that a thing}
+	[833]{ID:280897006615003136,Name:Aephilia of the Snow,Message:I just WANNA play some dota},{ID:278336218230685697,Name:Aephilia of the Snow,Message:Feelsbadman I'm broke}
+	[835]{ID:411773161353248768,Name:minnesota212,Message:Blame my roommate},{ID:313851492857675777,Name:Bezi,Message:Yeah fuck you josh},{ID:278335925703016448,Name:Aephilia of the Snow,Message:I'm tilted}
+	[837]{ID:295395697686216705,Name:Aephilia of the Snow,Message:https://cdn.discordapp.com/attachments/220292927094521862/295372310070820864/Hehexd.png}
+	[843]{ID:455518573264371723,Name:Aephilia of the Snow,Message:???}
+	[852]{ID:307746269013737472,Name:minnesota212,Message:we both dying rn}
+	[856]{ID:307761508769726465,Name:giri,Message:but thats ok dw},{ID:278336699241857024,Name:FreedomFries,Message:why did you program several ways to insult me}
+	[859]{ID:428038164544749579,Name:giri,Message:https://www.youtube.com/watch?v=yeekIqRqyHo},{ID:425851647143706624,Name:giri,Message:w knig},{ID:418302581278900224,Name:giri,Message:whens your break}
+	[860]{ID:351378871217684493,Name:FreedomFries,Message:xd},{ID:351123876186685461,Name:melone,Message:hi grant},{ID:317805595350794240,Name:Aephilia of the Snow,Message:What anime does Putin watch}
+	[861]{ID:372248328714584064,Name:Shvou,Message:/ts far thee well}
+	[862]{ID:426890477015662594,Name:giri,Message:https://twitter.com/Logic301/status/976181269070364672},{ID:338488807060013066,Name:Aephilia of the Snow,Message:<:arvindGrip:277891167943917570>},{ID:307761250425896971,Name:bobgooeyflonder,Message:yo accept my request},{ID:291009462267936769,Name:Aephilia of the Snow,Message:It's Yukino 🤦}
+	[863]{ID:455863898147651584,Name:FreedomFries.AI,Message:Unknown command.},{ID:329139656782249985,Name:melone,Message:https://www.youtube.com/watch?v=pLeTLe811Wg}
+	[864]{ID:291009502784913418,Name:Aephilia of the Snow,Message:Excuse me?}
+	[865]{ID:418302756957454356,Name:Aephilia of the Snow,Message:3/17-3/24},{ID:342878691849797633,Name:Aephilia of the Snow,Message:o/},{ID:317823018522902529,Name:Aephilia of the Snow,Message:Oh},{ID:316058232747589634,Name:melone,Message:https://gyazo.com/1df696d8dca1621e18630b5dd4f98195}
+	[866]{ID:455557261604028437,Name:Aephilia of the Snow,Message:hi},{ID:388928592345563136,Name:Shady,Message:This is rob}
+	[867]{ID:376525840135094273,Name:Aephilia of the Snow,Message:done},{ID:317806207383633922,Name:Aephilia of the Snow,Message:But that's},{ID:317806013082238978,Name:Aephilia of the Snow,Message:I mean},{ID:300844599486840832,Name:Aephilia of the Snow,Message:<:fullTilt:278002459048411137>},{ID:278339594083237889,Name:Kaori Miyazono,Message::hear_no_evil:},{ID:278336271066071041,Name:Aephilia of the Snow,Message:Discord money}
+	[871]{ID:307761625530761218,Name:bobgooeyflonder,Message:affirmative},{ID:307760622513291265,Name:minnesota212,Message:Oddly I feel more awake now}
+	[872]{ID:317806099912982528,Name:Shvou,Message:😉}
+	[873]{ID:278336751305490433,Name:Thearesia Van Astrea,Message:<@163492085540978689> , your waifu is shit!}
+	[877]{ID:307748869004066816,Name:bobgooeyflonder,Message:Kappa}
+	[884]{ID:283464740036935681,Name:Aephilia of the Snow,Message:my mom flamed me for liking bts earlier rofl}
+	[886]{ID:455578680144429056,Name:Dad Bot,Message:Hi pretty gay, I'm Dad!}
+	[887]{ID:341761961840869376,Name:FreedomFries,Message:TETSUKE RAISE}
+	[888]{ID:455849934646935564,Name:FreedomFries,Message:jijjijijijiij},{ID:317822805758705664,Name:Aephilia of the Snow,Message:qait}
+	[889]{ID:330596655038595082,Name:melone,Message:Esterflame: Take care and have a fun filled rest of the night
+retired dota player: yo are you gonna go to ti ?
+Esterflame: Nopes. Sadly i can't go. I have to finish my university
+retired dota player: aww
+Esterflame: You guys going ?
+retired dota player: well fun games! Hope to enjoy another game with you soon !
+retired dota player: yeah we}
+	[892]{ID:297198095207235594,Name:Aephilia of the Snow,Message:AY},{ID:279449167229616128,Name:giri,Message:???}
+	[893]{ID:455538215101923348,Name:Bezi,Message:Im an attack helicopter},{ID:426565150980440085,Name:Aephilia of the Snow,Message:<:lul:354821497006587915>},{ID:278339695275147265,Name:Aephilia of the Snow,Message:blink veil}
+	[894]{ID:418311851298783242,Name:Aephilia of the Snow,Message:i see},{ID:316057986919563264,Name:melone,Message:https://gyazo.com/3f1d6359b803e02184369c7ea5edf681},{ID:278335925933572097,Name:Thearesia Van Astrea,Message:<:fullTilt:278002459048411137> I'M TILTED <:fullTilt:278002459048411137>}
+	[896]{ID:426202515676332035,Name:giri,Message:i was afk},{ID:330847421435215875,Name:FreedomFries,Message:que est},{ID:292858310296862741,Name:ThatNinja,Message:https://www.youtube.com/watch?v=ZFo8-JqzSCM}
+	[897]{ID:278336248693784576,Name:cybros,Message:wats that?}
+	[898]{ID:305187912993996811,Name:bobgooeyflonder,Message:https://www.youtube.com/watch?v=tVj0ZTS4WF4},{ID:282358889570369547,Name:Aephilia of the Snow,Message:!play https://www.youtube.com/watch?v=yPTcKSVAEvA},{ID:278335315536510996,Name:Aephilia of the Snow,Message:ez}
+	[899]{ID:299746410666917909,Name:FreedomFries,Message:<:babyRyan:278329979131920385> <:babyRyan:278329979131920385> <:babyRyan:278329979131920385> <:babyRyan:278329979131920385> <:babyRyan:278329979131920385> <:babyRyan:278329979131920385> <:babyRyan:278329979131920385> <:babyRyan:278329979131920385> <:babyRyan:278329979131920385>},{ID:291010129955127306,Name:FreedomFries,Message:daily reminder that Makise Kurisu is litteraly the best female character}
+	[900]{ID:312427556139696128,Name:Aephilia of the Snow,Message:don't worry i'm bad at farming too and i used to play carry for b team}
+	[901]{ID:283464939388272640,Name:Omar,Message:LMAO},{ID:280432903610040320,Name:Aephilia of the Snow,Message:don't let your memes be dreams}
+	[904]{ID:455571027662077954,Name:FreedomFries,Message:y'all gay},{ID:375766437031313409,Name:FreedomFries,Message:2+2 is 4 minus 1 thts 3 quick maths},{ID:373273166338064402,Name:Aephilia of the Snow,Message:<@163818149576310784> play destiny with me}
+	[907]{ID:435956374812491777,Name:Moo,Message:You can get yourself clean, you can have a good meal
+You can do whatever you feel}
+	[909]{ID:280894849283260427,Name:giri,Message:1 sec}
+	[913]{ID:455818645507932180,Name:FreedomFries.AI,Message:YOUR MOM!},{ID:291009419305680906,Name:FreedomFries,Message:oh its aki}
+	[915]{ID:307746854202900480,Name:minnesota212,Message:also how does a queue last 20 min}
+	[917]{ID:418301717025914881,Name:Aephilia of the Snow,Message:I don't really cry for anime tho}
+	[919]{ID:390710004509835265,Name:giri,Message:lmao <@!163818292497088512> i just got that}
+	[921]{ID:317822813299802113,Name:Aephilia of the Snow,Message:wait}
+	[923]{ID:330614325679226892,Name:Toaster443,Message:https://www.facebook.com/richard.cho.353803}
+	[924]{ID:455848125194829825,Name:Shvou,Message:okaey},{ID:426612799708332042,Name:giri,Message:and died}
+	[925]{ID:283829595046805505,Name:giri,Message:stream}
+	[929]{ID:418302840449138689,Name:Aephilia of the Snow,Message:I'll be studying for finals}
+	[930]{ID:441065647795994644,Name:Moo,Message:http://www.donttap.com/}
+	[932]{ID:278336628928544768,Name:Aephilia of the Snow,Message:WHY WOULD I PROGRAM THAT}
+	[934]{ID:278334804502511616,Name:Aephilia of the Snow,Message:the best anime}
+	[936]{ID:418314289150033921,Name:Aephilia of the Snow,Message:how do I get out},{ID:351064583428898818,Name:FreedomFries,Message:I just noticed this}
+	[938]{ID:282357863706394624,Name:Kaori Miyazono,Message:Enqueued **TAEYEON 태연_I Got Love_Music Video** to be played. Position in queue: Up next!}
+	[939]{ID:278335308968230912,Name:Thearesia Van Astrea,Message:<@163492085540978689> , your waifu is shit!}
+	[941]{ID:324322651286011904,Name:Toaster443,Message:who won game 1}
+	[947]{ID:317807063868637195,Name:Aephilia of the Snow,Message:get mar here}
+	[950]{ID:318200672841629696,Name:Aephilia of the Snow,Message:Where did bezi go}
+	[951]{ID:279449555911704596,Name:Aephilia of the Snow,Message:I'm hosting it on my mac}
+	[952]{ID:279868272948805632,Name:bobgooeyflonder,Message:gg}
+	[953]{ID:338444011763138571,Name:arvindsindhwani,Message:<:arvindGrip:277891167943917570>  PogChamp}
+	[954]{ID:281966124541804545,Name:FreedomFries,Message:https://www.youtube.com/watch?v=0g-6xLB9nNM&feature=youtu.be},{ID:278336670250827777,Name:Thearesia Van Astrea,Message:?}
+	[955]{ID:426564841252323340,Name:giri,Message:yes},{ID:418300602137837579,Name:giri,Message:the god has spoken}
+	[956]{ID:418314440644100096,Name:giri,Message:are you fr},{ID:401223946671882240,Name:giri,Message:queue into them again},{ID:282336510546542593,Name:Aephilia of the Snow,Message:i have like 6 billion updates}
+	[958]{ID:455597374266540054,Name:Dad Bot,Message:Hi <:4Bezi:277873291165958144>, I'm Dad!},{ID:446503279455895552,Name:giri,Message:who are you},{ID:422249192606531584,Name:Aephilia of the Snow,Message:Banned}
+	[959]{ID:317806262211313664,Name:Aephilia of the Snow,Message:But you need the futa},{ID:302292894700535820,Name:FreedomFries,Message:wtf I hate menma now},{ID:290605929047654400,Name:Aephilia of the Snow,Message:I'm ready to play reno mage kappa},{ID:279838568803729409,Name:giri,Message:ty}
+	[960]{ID:343235035865808907,Name:FreedomFries,Message:you make a beliver},{ID:278336750768750596,Name:Aephilia of the Snow,Message:insult fries}
+	[961]{ID:313883548115271690,Name:melone,Message:https://www.dotabuff.com/esports/teams/2537752}
+	[962]{ID:279449218475884545,Name:giri,Message:!play kpop}
+	[963]{ID:418301489350443017,Name:Aephilia of the Snow,Message:cause I've been told that it's very good},{ID:312419851018960897,Name:FreedomFries,Message:last weeek}
+	[964]{ID:317805689248546836,Name:Aephilia of the Snow,Message:zzzz},{ID:279087434698850304,Name:Aephilia of the Snow,Message:It's not actually Seolhyun bot},{ID:278336458912432128,Name:Thearesia Van Astrea,Message:?}
+	[965]{ID:278337482175676428,Name:cybros,Message::c}
+	[968]{ID:307746309178392576,Name:minnesota212,Message:r u in the middle of a game?}
+	[970]{ID:278334743442096128,Name:cybros,Message:not rn}
+	[972]{ID:342872677658394637,Name:Aephilia of the Snow,Message:?}
+	[978]{ID:317805898317955072,Name:Shvou,Message:😉},{ID:289982326505603083,Name:FreedomFries,Message:}
+	[980]{ID:332345882156728320,Name:ThatNinja,Message:https://www.facebook.com/grant.uebele?hc_ref=NEWSFEED&fref=nf}
+	[982]{ID:317806093642498070,Name:Shvou,Message:immouto hentai best hentai},{ID:301559288361517056,Name:FreedomFries,Message:http://i.imgur.com/bZNfyJj.jpg},{ID:279084684640518145,Name:FreedomFries,Message:she kills him later on}
+	[983]{ID:455843112854487060,Name:FreedomFries,Message:asd},{ID:278336454512476170,Name:cybros,Message:i mean}
+	[986]{ID:374632107919802378,Name:ThatNinja,Message:SKKKRRAAAAAA}
+	[987]{ID:455862544926507018,Name:FreedomFries,Message:!addFromHere},{ID:307761115759247363,Name:giri,Message:that works too}
+	[988]{ID:300844578116730880,Name:Toaster443,Message:<:fullTilt:278002459048411137>}
+	[989]{ID:351064622989705218,Name:FreedomFries,Message:but Tom's name is in japanese},{ID:280467476473446410,Name:Aephilia of the Snow,Message:I'll fucking kill all of you}
+	[990]{ID:317806158008025089,Name:Shvou,Message:the}
+	[993]{ID:280433787727380480,Name:Aephilia of the Snow,Message:yuri do you like my set},{ID:279087987218841600,Name:Aephilia of the Snow,Message:Feels good man omar go check}
+	[994]{ID:418300688091840512,Name:Aephilia of the Snow,Message:i have},{ID:302292860852633602,Name:giri,Message:you're supposed to find out naturally}
+	[996]{ID:317806675199393793,Name:FreedomFries,Message:or lion}
+	[997]{ID:317806427039203329,Name:FreedomFries,Message:delet this},{ID:280897093218992128,Name:Aephilia of the Snow,Message:also <@163818149576310784> give me the name of the team we're playing this week},{ID:278335706915667969,Name:cybros,Message:what other commands r there?}
+	[1000]{ID:454685846734372864,Name:FreedomFries,Message:im hungry}
+	[1002]{ID:401223969417592844,Name:giri,Message:some1 get in low prio}
+	[1008]{ID:325068514853519360,Name:Aephilia of the Snow,Message:`mitsuha.png`}
+	[1009]{ID:338541894382518272,Name:ThatNinja,Message:http://imgur.com/gallery/TKEjN}
+	[1012]{ID:335215085804978196,Name:ThatNinja,Message:Josh}
+	[1017]{ID:304807823278211072,Name:Aephilia of the Snow,Message:FeelsGoodMan}
+	[1018]{ID:322553299536445450,Name:FreedomFries,Message:https://www.youtube.com/watch?v=x9bmVbjn2Ls},{ID:307757351929249793,Name:giri,Message:kiev majors gonna extend the q time by like an hour}
+	[1019]{ID:411778833713201152,Name:minnesota212,Message:Dota},{ID:278336604613902336,Name:FreedomFries,Message:insult tom}
+	[1020]{ID:313512834828861450,Name:giri,Message:https://www.dotabuff.com/matches/3105255765},{ID:278336682015588353,Name:cybros,Message:insult omar}
+	[1021]{ID:418315194066927627,Name:Aephilia of the Snow,Message:but how do i look at the future},{ID:292861120585400320,Name:melone,Message:https://www.youtube.com/watch?v=n06FqMYa3eI&feature=youtu.be},{ID:290318867484377088,Name:Aephilia of the Snow,Message:Nice! Good luck}
+	[1022]{ID:343235022188445696,Name:FreedomFries,Message:you make me a}
+	[1023]{ID:317807683740762112,Name:Bezi,Message:i need to flame omar},{ID:299982404959862784,Name:giri,Message:ima leave soon just play without me}
+}

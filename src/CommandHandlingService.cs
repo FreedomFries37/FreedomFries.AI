@@ -42,9 +42,9 @@ namespace DiscordBot {
 				var result = await _commands.ExecuteAsync(context, 1, _services);
 				if (!result.IsSuccess) await context.Channel.SendMessageAsync(result.ErrorReason);
 			} else {
-				Program.table.Add(message.Id, message.Author.Username, message.Content);
+				Program.table.Add(message.Id, message.Author.Username, message.Timestamp.Date, message.Content);
 				Program.table.PrintTableNoPadding();
-				FileInteraction.ConvertTableToFile(Program.table);
+				FileInteraction.ConvertDatabaseToFile(Program.db);
 			}
 		}
 	}

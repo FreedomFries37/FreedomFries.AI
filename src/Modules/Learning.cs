@@ -28,12 +28,13 @@ namespace DiscordBot {
 			ISocketMessageChannel channel = last.Channel;
 
 			var t = await channel.GetMessagesAsync(1000).Flatten().ToArray();
-			foreach (IMessage socketMessage in t) {
-				Program.table.Add(socketMessage.Id, socketMessage.Author.Username, socketMessage.Content);
+			foreach (IMessage message in t) {
+				Program.table.Add(message.Id, message.Author.Username, message.Timestamp.Date, message.Content);
 			}
 			
 			Program.table.PrintTableNoPadding();
-			FileInteraction.ConvertTableToFile(Program.table);
+			FileInteraction.ConvertDatabaseToFile(Program.db);
+			Program.table.DumpData(25);
 		}
 	}
 }

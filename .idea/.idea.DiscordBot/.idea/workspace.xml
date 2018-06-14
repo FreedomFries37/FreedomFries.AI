@@ -2,13 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87f0917b-3b55-432f-8b67-2a9e715b7264" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.DiscordBot/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CommandHandlingService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscordBot.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscordBot.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/Learning.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modules/PublicModule.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discord_Database/Discord_Database.rd3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Discord_Database/tables/IDNTM.rdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/Discord_Database/Discord_Database.rd3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/Discord_Database/tables/IDNTM.rdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/ID-Name-Message - Copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DiscordBot/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DiscordBot/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DiscordBot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DiscordBot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscordBot.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DiscordBot.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/DiscordBot.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/DiscordBot.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/DiscordBot.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/DiscordBot.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/DiscordBot.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/DiscordBot.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/ID-Name-Message.rdt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.0/ID-Name-Message.rdt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/DiscordBot.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/DiscordBot.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/DiscordBot.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/DiscordBot.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/DiscordBot.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/DiscordBot.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/DiscordBot.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/netcoreapp2.0/DiscordBot.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/DiscordBot.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/DiscordBot.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CommandHandlingService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/CommandHandlingService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Modules/Learning.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Modules/Learning.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,79 +33,91 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Program.cs">
+        <entry file="file://$PROJECT_DIR$/src/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="120">
+              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
               <folding>
-                <marker date="1528755838206" expanded="true" signature="7:265" ph="..." />
-                <marker date="1528755838206" expanded="true" signature="319:1752" ph="{...}" />
-                <marker date="1528755838206" expanded="true" signature="339:1750" ph="{...}" />
-                <marker date="1528755838206" expanded="true" signature="776:1235" ph="{...}" />
-                <marker date="1528755838206" expanded="true" signature="1277:1350" ph="{...}" />
-                <marker date="1528755838206" expanded="true" signature="1380:1476" ph="{...}" />
-                <marker date="1528755838206" expanded="true" signature="1525:1746" ph="{...}" />
+                <marker date="1528935536111" expanded="false" signature="7:295" ph="..." />
+                <marker date="1528935536111" expanded="true" signature="319:2083" ph="{...}" />
+                <marker date="1528935536111" expanded="true" signature="339:2081" ph="{...}" />
+                <marker date="1528935536111" expanded="true" signature="807:1566" ph="{...}" />
+                <marker date="1528935536111" expanded="true" signature="1288:1434" ph="{...}" />
+                <marker date="1528935536111" expanded="true" signature="1608:1681" ph="{...}" />
+                <marker date="1528935536111" expanded="true" signature="1711:1807" ph="{...}" />
+                <marker date="1528935536111" expanded="true" signature="1856:2077" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PublicModule.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/PublicModule.cs">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="5" column="65" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="65" />
-              <folding>
-                <marker date="1528745055809" expanded="false" signature="6:68" ph="..." />
-                <marker date="1528745055809" expanded="true" signature="91:263" ph="{...}" />
-                <marker date="1528745055809" expanded="true" signature="155:261" ph="{...}" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Database.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Database.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SecondaryIndexing.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/SecondaryIndexing.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3315">
+              <caret line="221" column="12" selection-start-line="221" selection-start-column="12" selection-end-line="221" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Learning.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Modules/Learning.cs">
+        <entry file="file://$PROJECT_DIR$/src/Modules/Learning.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="465">
+              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
               <folding>
-                <marker date="1528757934755" expanded="true" signature="6:222" ph="..." />
-                <marker date="1528757934755" expanded="true" signature="245:1079" ph="{...}" />
-                <marker date="1528757934755" expanded="true" signature="306:1077" ph="{...}" />
-                <marker date="1528757934755" expanded="true" signature="368:569" ph="{...}" />
-                <marker date="1528757934755" expanded="true" signature="449:486" ph="{...}" />
-                <marker date="1528757934755" expanded="true" signature="635:1074" ph="{...}" />
-                <marker date="1528757934755" expanded="true" signature="871:972" ph="{...}" />
+                <marker date="1528847429076" expanded="false" signature="6:222" ph="..." />
+                <marker date="1528847429076" expanded="true" signature="306:1108" ph="{...}" />
+                <marker date="1528847429076" expanded="true" signature="368:569" ph="{...}" />
+                <marker date="1528847429076" expanded="true" signature="449:486" ph="{...}" />
+                <marker date="1528847429076" expanded="true" signature="635:1105" ph="{...}" />
+                <marker date="1528847429076" expanded="true" signature="865:972" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ID-Name-Message.rdt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ID-Name-Message.rdt">
+      <file leaf-file-name="IDNTM.rdt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Discord_Database/tables/IDNTM.rdt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="85" column="81" lean-forward="true" selection-start-line="85" selection-start-column="81" selection-end-line="85" selection-end-column="81" />
+            <state relative-caret-position="705">
+              <caret line="776" column="15" selection-start-line="776" selection-start-column="15" selection-end-line="776" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="CommandHandlingService.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CommandHandlingService.cs">
+        <entry file="file://$PROJECT_DIR$/src/CommandHandlingService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+            <state relative-caret-position="210">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding>
-                <marker date="1528756444053" expanded="true" signature="7:207" ph="..." />
-                <marker date="1528756444053" expanded="true" signature="230:1640" ph="{...}" />
-                <marker date="1528756444053" expanded="true" signature="269:1638" ph="{...}" />
-                <marker date="1528756444053" expanded="true" signature="528:743" ph="{...}" />
-                <marker date="1528756444053" expanded="true" signature="782:855" ph="{...}" />
-                <marker date="1528756444053" expanded="true" signature="923:1635" ph="{...}" />
-                <marker date="1528756444053" expanded="true" signature="1194:1446" ph="{...}" />
+                <marker date="1528846138800" expanded="false" signature="7:207" ph="..." />
+                <marker date="1528846138800" expanded="true" signature="269:1662" ph="{...}" />
+                <marker date="1528846138800" expanded="true" signature="528:743" ph="{...}" />
+                <marker date="1528846138800" expanded="true" signature="782:855" ph="{...}" />
+                <marker date="1528846138800" expanded="true" signature="923:1659" ph="{...}" />
+                <marker date="1528846138800" expanded="true" signature="1194:1446" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -103,20 +130,31 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/37D2D378-382E-4177-834D-77B46B38A4BA/dd/0315524f/EventExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/479D5882-7F39-45FD-9301-34020457B6F7/f7/cbee2fca/DiscordSocketClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/d0/50ac4b34/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/479D5882-7F39-45FD-9301-34020457B6F7/46/39ad047d/SocketGuildUser.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/CommandHandlingService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30390BA4-AB80-4321-922F-B8FC8BA64142/0c/7a42f18d/CommandInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/4c/ce25e129/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/PublicModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/scripting/parsers/Parser.Table.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/91/44d30533/ConfiguredTaskAwaitable`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modules/Learning.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/scripting/ParseTree.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Modules/Learning.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/SecondaryIndexing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/scripting/parsers/Parser.Base.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Relation.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30390BA4-AB80-4321-922F-B8FC8BA64142/84/a9b71351/ModuleClassBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/interaction/FileInteraction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Database.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Roaming/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/479D5882-7F39-45FD-9301-34020457B6F7/aa/ecdc4c70/SocketMessage.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://C:/Program Files (x86)/NuGet/Config/Microsoft.VisualStudio.Offline.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/0e/b8298506/DateTimeOffset.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/5b/6d2db225/ConfiguredTaskAwaitable.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CommandHandlingService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30390BA4-AB80-4321-922F-B8FC8BA64142/0c/7a42f18d/CommandInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modules/PublicModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E936AF04-FB25-4049-82EA-66DA6CA533BB/a4/7440e45b/ParseTree.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -126,6 +164,13 @@
         <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/CommandHandlingService.cs" />
         <option value="$PROJECT_DIR$/Modules/Learning.cs" />
+        <option value="$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs" />
+        <option value="$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/scripting/ParseTree.cs" />
+        <option value="$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/SecondaryIndexing.cs" />
+        <option value="$PROJECT_DIR$/src/CommandHandlingService.cs" />
+        <option value="$PROJECT_DIR$/src/Modules/Learning.cs" />
+        <option value="$PROJECT_DIR$/src/Program.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -138,9 +183,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="62" />
-    <option name="y" value="-24" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="81" />
+    <option name="y" value="635" />
     <option name="width" value="1727" />
     <option name="height" value="1000" />
   </component>
@@ -150,7 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -163,31 +207,13 @@
               <item name="DiscordBot (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="DiscordBot" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DiscordBot (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="DiscordBot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DiscordBot (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="DiscordBot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="DiscordBot (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="DiscordBot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Modules" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,12 +265,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528741358108</updated>
-      <workItem from="1528741359563" duration="13330000" />
+      <workItem from="1528741359563" duration="13538000" />
+      <workItem from="1528759929734" duration="3059000" />
+      <workItem from="1528822344252" duration="7154000" />
+      <workItem from="1528935165744" duration="719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13330000" />
+    <option name="totallyTimeSpent" value="24470000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -256,7 +285,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="81" y="635" width="1727" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -264,48 +293,48 @@
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="right" id="Run" order="6" weight="0.3491471" />
+      <window_info anchor="right" id="Run" order="6" visible="true" weight="0.20215957" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info anchor="right" id="NuGet" order="5" weight="0.20202559" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25586355" />
+      <window_info anchor="right" id="NuGet" order="5" weight="0.34275052" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.29694062" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.33442265" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Debug" order="7" weight="0.32569295" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="7" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="NuGet" order="5" weight="0.32889125" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info anchor="right" id="Run" order="6" visible="true" weight="0.32889125" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="right" id="Run" order="6" visible="true" weight="0.32889125" />
       <window_info anchor="bottom" id="Unit Tests" order="2" />
-      <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="8" />
       <window_info anchor="right" id="Errors In Solution" order="0" />
-      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="0" />
-      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="right" id="Database" order="1" />
       <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -320,203 +349,349 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/CommandHandlingService.cs</url>
+          <url>file://$PROJECT_DIR$/src/CommandHandlingService.cs</url>
           <line>45</line>
-          <properties documentPath="$PROJECT_DIR$/CommandHandlingService.cs" initialLine="44">
-            <startOffsets>
-              <startOffset value="1535" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="1535" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/CommandHandlingService.cs" initialLine="44" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/CommandHandlingService.cs</url>
+          <url>file://$PROJECT_DIR$/src/CommandHandlingService.cs</url>
           <line>40</line>
-          <properties documentPath="$PROJECT_DIR$/CommandHandlingService.cs" initialLine="39">
-            <startOffsets>
-              <startOffset value="1205" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="1284" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/CommandHandlingService.cs" initialLine="39" />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/CommandHandlingService.cs</url>
+          <url>file://$PROJECT_DIR$/src/CommandHandlingService.cs</url>
           <line>35</line>
-          <properties documentPath="$PROJECT_DIR$/CommandHandlingService.cs" initialLine="34">
-            <startOffsets>
-              <startOffset value="1075" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="1121" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/CommandHandlingService.cs" initialLine="34" />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/CommandHandlingService.cs</url>
-          <line>44</line>
-          <properties documentPath="$PROJECT_DIR$/CommandHandlingService.cs" initialLine="43">
-            <startOffsets>
-              <startOffset value="1458" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="1530" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Modules/Learning.cs</url>
+          <url>file://$PROJECT_DIR$/src/Modules/Learning.cs</url>
           <line>29</line>
-          <properties documentPath="$PROJECT_DIR$/Modules/Learning.cs" initialLine="34">
-            <startOffsets>
-              <startOffset value="764" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="829" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Modules/Learning.cs" initialLine="34" />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Modules/Learning.cs</url>
+          <url>file://$PROJECT_DIR$/src/Modules/Learning.cs</url>
           <line>35</line>
-          <properties documentPath="$PROJECT_DIR$/Modules/Learning.cs" initialLine="35">
-            <startOffsets>
-              <startOffset value="1020" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="1070" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Modules/Learning.cs" initialLine="35" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/interaction/FileInteraction.cs</url>
-          <line>76</line>
+          <line>94</line>
           <properties documentPath="$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/interaction/FileInteraction.cs" initialLine="76">
             <startOffsets>
-              <startOffset value="2131" />
+              <startOffset value="2833" />
             </startOffsets>
             <endOffsets>
-              <endOffset value="2149" />
+              <endOffset value="2851" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs</url>
+          <line>285</line>
+          <properties documentPath="$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs" initialLine="283">
+            <startOffsets>
+              <startOffset value="8053" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="8067" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs</url>
+          <line>290</line>
+          <properties documentPath="$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs" initialLine="288">
+            <startOffsets>
+              <startOffset value="8101" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="8124" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs</url>
+          <line>297</line>
+          <properties documentPath="$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs" initialLine="295">
+            <startOffsets>
+              <startOffset value="8289" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="8319" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/Program.cs</url>
+          <line>32</line>
+          <properties documentPath="$PROJECT_DIR$/src/Program.cs" initialLine="26">
+            <startOffsets>
+              <startOffset value="812" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="847" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/CommandHandlingService.cs</url>
+          <line>44</line>
+          <properties documentPath="$PROJECT_DIR$/src/CommandHandlingService.cs" initialLine="44">
+            <startOffsets>
+              <startOffset value="1458" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1554" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs</url>
+          <line>137</line>
+          <properties documentPath="$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs" initialLine="137">
+            <startOffsets>
+              <startOffset value="3561" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="3575" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/SecondaryIndexing.cs</url>
+          <line>215</line>
+          <properties documentPath="$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/SecondaryIndexing.cs" initialLine="215">
+            <startOffsets>
+              <startOffset value="6344" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="6364" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/SecondaryIndexing.cs</url>
+          <line>221</line>
+          <properties documentPath="$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/SecondaryIndexing.cs" initialLine="221">
+            <startOffsets>
+              <startOffset value="6639" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="6719" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="27" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="38" column="74" lean-forward="true" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
+          <folding>
+            <marker date="1528935536111" expanded="false" signature="7:295" ph="..." />
+            <marker date="1528935536111" expanded="true" signature="319:2083" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="339:2081" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="807:1566" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1288:1434" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1608:1681" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1711:1807" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1856:2077" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Database.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/SecondaryIndexing.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="221" column="12" selection-start-line="221" selection-start-column="12" selection-end-line="221" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/Learning.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding>
+            <marker date="1528847429076" expanded="false" signature="6:222" ph="..." />
+            <marker date="1528847429076" expanded="true" signature="306:1108" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="368:569" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="449:486" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="635:1105" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="865:972" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandHandlingService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <marker date="1528846138800" expanded="false" signature="7:207" ph="..." />
+            <marker date="1528846138800" expanded="true" signature="269:1662" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="528:743" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="782:855" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="923:1659" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="1194:1446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Discord_Database/tables/IDNTM.rdt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11640">
+          <caret line="776" column="15" selection-start-line="776" selection-start-column="15" selection-end-line="776" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/interaction/FileInteraction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <folding>
+            <marker date="1528935536111" expanded="false" signature="7:295" ph="..." />
+            <marker date="1528935536111" expanded="true" signature="319:2083" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="339:2081" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="807:1566" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1288:1434" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1608:1681" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1711:1807" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1856:2077" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/PublicModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ID-Name-Message.rdt" />
+    <entry file="file://$PROJECT_DIR$/src/CommandHandlingService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <marker date="1528846138800" expanded="false" signature="7:207" ph="..." />
+            <marker date="1528846138800" expanded="true" signature="269:1662" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="528:743" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="782:855" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="923:1659" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="1194:1446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/Learning.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <folding>
+            <marker date="1528847429076" expanded="false" signature="6:222" ph="..." />
+            <marker date="1528847429076" expanded="true" signature="306:1108" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="368:569" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="449:486" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="635:1105" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="865:972" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="50" column="38" lean-forward="true" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <marker date="1528935536111" expanded="false" signature="7:295" ph="..." />
+            <marker date="1528935536111" expanded="true" signature="319:2083" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="339:2081" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="807:1566" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1288:1434" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1608:1681" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1711:1807" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1856:2077" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/PublicModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/Learning.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <marker date="1528847429076" expanded="false" signature="6:222" ph="..." />
+            <marker date="1528847429076" expanded="true" signature="306:1108" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="368:569" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="449:486" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="635:1105" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="865:972" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ID-Name-Message.rdt" />
+    <entry file="file://$PROJECT_DIR$/src/CommandHandlingService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <marker date="1528846138800" expanded="false" signature="7:207" ph="..." />
+            <marker date="1528846138800" expanded="true" signature="269:1662" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="528:743" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="782:855" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="923:1659" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="1194:1446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://C:/Program Files (x86)/NuGet/Config/Microsoft.VisualStudio.Offline.config">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/NuGet/NuGet.Config">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/479D5882-7F39-45FD-9301-34020457B6F7/aa/ecdc4c70/SocketMessage.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="112" column="8" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/0e/b8298506/DateTimeOffset.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="171" column="8" selection-start-line="171" selection-start-column="8" selection-end-line="171" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="124" column="8" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="8" />
-          <folding>
-            <marker date="1528754638817" expanded="false" signature="6:84" ph="..." />
-            <marker date="1528754638817" expanded="true" signature="113:9063" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="135:9057" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="502:656" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="511:652" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="589:628" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="682:929" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="691:925" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="799:890" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="848:884" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="1137:1318" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="1264:1314" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="1448:1561" ph="/// Finds based on keys alone ... " />
-            <marker date="1528754638817" expanded="true" signature="1612:2037" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="1621:2033" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="1783:2010" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="1861:1970" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="2077:2112" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="2190:2347" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="2231:2325" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="2353:2593" ph="/// Add a tuple to the table. Fails if the relation of the tuple ... " />
-            <marker date="1528754638817" expanded="true" signature="2628:2950" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="2876:2926" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="2995:3141" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="3188:3321" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="3325:3526" ph="/// Attempts to Remove a tuple if its the correct relation ... " />
-            <marker date="1528754638817" expanded="true" signature="3564:3732" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="3736:3919" ph="/// If all the elements match ... " />
-            <marker date="1528754638817" expanded="true" signature="3980:4637" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="4091:4232" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="4380:4616" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="4483:4578" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="4530:4572" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="4641:4924" ph="/// Same as Find, but returns true or false if RADTuple was found ... " />
-            <marker date="1528754638817" expanded="true" signature="5002:5061" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="5142:5201" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="5262:5832" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="5467:5798" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="5838:5931" ph="/// Doubles the size of the table and redistributes the data ... " />
-            <marker date="1528754638817" expanded="true" signature="5956:6373" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="6076:6129" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="6186:6345" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="6234:6340" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="6414:6617" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="6505:6563" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="6656:6815" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="6732:6792" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="6765:6787" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="6819:6938" ph="/// Dumps relavent data and a graph representing the distribution of data in the table ... " />
-            <marker date="1528754638817" expanded="true" signature="6964:7467" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="7308:7463" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="7387:7418" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="7854:8633" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="7997:8628" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="8040:8623" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="8116:8573" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="8216:8356" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="8287:8348" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="8435:8496" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="8693:9054" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="8794:8893" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="8847:8888" ph="{...}" />
-            <marker date="1528754638817" expanded="true" signature="8965:9006" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/37D2D378-382E-4177-834D-77B46B38A4BA/dd/0315524f/EventExtensions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Time-Name-Message.rdt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Time-Name-Message.rdt" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30390BA4-AB80-4321-922F-B8FC8BA64142/0c/7a42f18d/CommandInfo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -531,41 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding>
-            <marker date="1528755838206" expanded="true" signature="7:265" ph="..." />
-            <marker date="1528755838206" expanded="true" signature="319:1752" ph="{...}" />
-            <marker date="1528755838206" expanded="true" signature="339:1750" ph="{...}" />
-            <marker date="1528755838206" expanded="true" signature="776:1235" ph="{...}" />
-            <marker date="1528755838206" expanded="true" signature="1277:1350" ph="{...}" />
-            <marker date="1528755838206" expanded="true" signature="1380:1476" ph="{...}" />
-            <marker date="1528755838206" expanded="true" signature="1525:1746" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/PublicModule.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="65" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="65" />
-          <folding>
-            <marker date="1528745055809" expanded="false" signature="6:68" ph="..." />
-            <marker date="1528745055809" expanded="true" signature="91:263" ph="{...}" />
-            <marker date="1528745055809" expanded="true" signature="155:261" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/interaction/FileInteraction.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30390BA4-AB80-4321-922F-B8FC8BA64142/84/a9b71351/ModuleClassBuilder.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -573,63 +713,195 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modules/PublicModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/d0/50ac4b34/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="1279" column="6" selection-start-line="1279" selection-start-column="6" selection-end-line="1279" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/scripting/parsers/Parser.Base.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="211" column="12" selection-start-line="211" selection-start-column="12" selection-end-line="211" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/scripting/parsers/Parser.Table.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/scripting/ParseTree.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E936AF04-FB25-4049-82EA-66DA6CA533BB/a4/7440e45b/ParseTree.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ID-Name-Message.rdt" />
+    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/interaction/FileInteraction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Discord_Database/Discord_Database.rd3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/479D5882-7F39-45FD-9301-34020457B6F7/aa/ecdc4c70/SocketMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="112" column="8" selection-start-line="112" selection-start-column="8" selection-end-line="112" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/0e/b8298506/DateTimeOffset.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="131" column="8" selection-start-line="131" selection-start-column="8" selection-end-line="131" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/4c/ce25e129/Dictionary`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="122" column="8" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Relation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/479D5882-7F39-45FD-9301-34020457B6F7/46/39ad047d/SocketGuildUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Table.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/37D2D378-382E-4177-834D-77B46B38A4BA/dd/0315524f/EventExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/5b/6d2db225/ConfiguredTaskAwaitable.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/479D5882-7F39-45FD-9301-34020457B6F7/f7/cbee2fca/DiscordSocketClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="1897" column="8" selection-start-line="1897" selection-start-column="8" selection-end-line="1897" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/Database.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CommandHandlingService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding>
-            <marker date="1528752379138" expanded="true" signature="0:361" ph="/* Decompiled with JetBrains decompiler ... */" />
-            <marker date="1528752379138" expanded="true" signature="435:1880" ph="{...}" />
-            <marker date="1528752379138" expanded="true" signature="477:1878" ph="{...}" />
-            <marker date="1528752379138" expanded="true" signature="654:787" ph="{...}" />
-            <marker date="1528752379138" expanded="true" signature="858:913" ph="{...}" />
-            <marker date="1528752379138" expanded="true" signature="1001:1874" ph="{...}" />
-            <marker date="1528752379138" expanded="true" signature="1181:1295" ph="{...}" />
-            <marker date="1528752379138" expanded="true" signature="1326:1416" ph="{...}" />
-            <marker date="1528752379138" expanded="true" signature="1346:1408" ph="{...}" />
-            <marker date="1528752379138" expanded="true" signature="1468:1592" ph="{...}" />
-            <marker date="1528752379138" expanded="true" signature="1650:1775" ph="{...}" />
-            <marker date="1528752379138" expanded="true" signature="1806:1868" ph="{...}" />
+            <marker date="1528846138800" expanded="false" signature="7:207" ph="..." />
+            <marker date="1528846138800" expanded="true" signature="269:1662" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="528:743" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="782:855" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="923:1659" ph="{...}" />
+            <marker date="1528846138800" expanded="true" signature="1194:1446" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/Learning.cs">
+    <entry file="file://$PROJECT_DIR$/IDNTM.rdt" />
+    <entry file="file://$PROJECT_DIR$/src/Modules/Learning.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="465">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
           <folding>
-            <marker date="1528757934755" expanded="true" signature="6:222" ph="..." />
-            <marker date="1528757934755" expanded="true" signature="245:1079" ph="{...}" />
-            <marker date="1528757934755" expanded="true" signature="306:1077" ph="{...}" />
-            <marker date="1528757934755" expanded="true" signature="368:569" ph="{...}" />
-            <marker date="1528757934755" expanded="true" signature="449:486" ph="{...}" />
-            <marker date="1528757934755" expanded="true" signature="635:1074" ph="{...}" />
-            <marker date="1528757934755" expanded="true" signature="871:972" ph="{...}" />
+            <marker date="1528847429076" expanded="false" signature="6:222" ph="..." />
+            <marker date="1528847429076" expanded="true" signature="306:1108" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="368:569" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="449:486" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="635:1105" ph="{...}" />
+            <marker date="1528847429076" expanded="true" signature="865:972" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CommandHandlingService.cs">
+    <entry file="file://$PROJECT_DIR$/../RadinDatabaseSystemVersion3/RadDB3/src/structure/SecondaryIndexing.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        <state relative-caret-position="3315">
+          <caret line="221" column="12" selection-start-line="221" selection-start-column="12" selection-end-line="221" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Discord_Database/tables/IDNTM.rdt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="776" column="15" selection-start-line="776" selection-start-column="15" selection-end-line="776" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
           <folding>
-            <marker date="1528756444053" expanded="true" signature="7:207" ph="..." />
-            <marker date="1528756444053" expanded="true" signature="230:1640" ph="{...}" />
-            <marker date="1528756444053" expanded="true" signature="269:1638" ph="{...}" />
-            <marker date="1528756444053" expanded="true" signature="528:743" ph="{...}" />
-            <marker date="1528756444053" expanded="true" signature="782:855" ph="{...}" />
-            <marker date="1528756444053" expanded="true" signature="923:1635" ph="{...}" />
-            <marker date="1528756444053" expanded="true" signature="1194:1446" ph="{...}" />
+            <marker date="1528935536111" expanded="false" signature="7:295" ph="..." />
+            <marker date="1528935536111" expanded="true" signature="319:2083" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="339:2081" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="807:1566" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1288:1434" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1608:1681" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1711:1807" ph="{...}" />
+            <marker date="1528935536111" expanded="true" signature="1856:2077" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ID-Name-Message.rdt">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="85" column="81" lean-forward="true" selection-start-line="85" selection-start-column="81" selection-end-line="85" selection-end-column="81" />
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
