@@ -17,6 +17,7 @@ namespace DiscordBot {
 	
 	class Program {
 		private string TOKEN = "";
+		private const string RECENT_DATE = "6/13/2018 8:49:56 PM";
 		
 		static void Main(string[] args) => new Program().MainAsync().GetAwaiter().GetResult();
 		private DiscordSocketClient client;
@@ -50,12 +51,11 @@ namespace DiscordBot {
 				db.addTable(new Table("TokenService", Relation2));
 				db["TokenService"]?.Add(DateTime.Now, "fill me in");
 				FileInteraction.ConvertDatabaseToFile(db);
-				await Task.Delay(-1);
 				return;
 			}
 			
 			db = FileInteraction.ConvertDirectoriesInCurrentDirectoryToDatabases()[0];
-			
+			TOKEN = db["TokenService"][new RADDateTime(RECENT_DATE)]["Token"].ToString();
 			await client.LoginAsync(TokenType.Bot, TOKEN);
 			await client.StartAsync();
 
